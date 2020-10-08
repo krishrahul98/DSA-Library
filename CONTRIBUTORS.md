@@ -82,13 +82,20 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/BraveeSnow">
+            <img src="https://avatars0.githubusercontent.com/u/45154227?v=4" width="100;" alt="BraveeSnow"/>
+            <br />
+            <sub><b>David Long</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
         <a href="https://github.com/BrianAnakPintar">
             <img src="https://avatars2.githubusercontent.com/u/69195029?v=4" width="100;" alt="BrianAnakPintar"/>
             <br />
             <sub><b>BrianAnakPintar</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/debarshi-1999">
             <img src="https://avatars1.githubusercontent.com/u/66899563?v=4" width="100;" alt="debarshi-1999"/>
@@ -123,15 +130,15 @@
             <br />
             <sub><b>Siradanai B.</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/jayaganeshkumar">
             <img src="https://avatars0.githubusercontent.com/u/56192588?v=4" width="100;" alt="jayaganeshkumar"/>
             <br />
             <sub><b>Jayaganeshkumar</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/meghanagottapu">
             <img src="https://avatars0.githubusercontent.com/u/43183125?v=4" width="100;" alt="meghanagottapu"/>
