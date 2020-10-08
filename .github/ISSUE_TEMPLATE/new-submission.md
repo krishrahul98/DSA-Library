@@ -21,8 +21,10 @@ Main_Folder => Sub_Folder => ... => ... => Filename.extension
 
 **Language**
 
-- [ ]  C++ -
-- [ ]  C -
-- [ ]  Python -
-- [ ] Java - 
+- [ ]  C++
+- [ ]  C 
+- [ ]  Python
+- [ ] Java 
 - [ ] PHP
+- [ ] C#
+- [ ] JavaScript
