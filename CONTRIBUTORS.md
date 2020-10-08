@@ -25,6 +25,13 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/falguni-k">
+            <img src="https://avatars3.githubusercontent.com/u/49592710?v=4" width="100;" alt="falguni-k"/>
+            <br />
+            <sub><b>Falguni-k</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/SanjayMarreddi">
             <img src="https://avatars0.githubusercontent.com/u/57671048?v=4" width="100;" alt="SanjayMarreddi"/>
             <br />
@@ -37,15 +44,15 @@
             <br />
             <sub><b>Amulya</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/arihantbansal">
             <img src="https://avatars2.githubusercontent.com/u/17180950?v=4" width="100;" alt="arihantbansal"/>
             <br />
             <sub><b>Arihant Bansal</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Aryan-dev007">
             <img src="https://avatars2.githubusercontent.com/u/61882780?v=4" width="100;" alt="Aryan-dev007"/>
@@ -72,13 +79,6 @@
             <img src="https://avatars0.githubusercontent.com/u/50923330?v=4" width="100;" alt="shin-iji"/>
             <br />
             <sub><b>Siradanai B.</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/falguni-k">
-            <img src="https://avatars3.githubusercontent.com/u/49592710?v=4" width="100;" alt="falguni-k"/>
-            <br />
-            <sub><b>Falguni-k</b></sub>
         </a>
     </td>
     <td align="center">
