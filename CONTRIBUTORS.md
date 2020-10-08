@@ -39,13 +39,20 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/siddharthgangwar25">
+            <img src="https://avatars1.githubusercontent.com/u/63447050?v=4" width="100;" alt="siddharthgangwar25"/>
+            <br />
+            <sub><b>Siddharth Gangwar</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
         <a href="https://github.com/falguni-k">
             <img src="https://avatars3.githubusercontent.com/u/49592710?v=4" width="100;" alt="falguni-k"/>
             <br />
             <sub><b>Falguni-k</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/harsh0620">
             <img src="https://avatars2.githubusercontent.com/u/57012784?v=4" width="100;" alt="harsh0620"/>
@@ -80,15 +87,15 @@
             <br />
             <sub><b>Amulya</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/arihantbansal">
             <img src="https://avatars2.githubusercontent.com/u/17180950?v=4" width="100;" alt="arihantbansal"/>
             <br />
             <sub><b>Arihant Bansal</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Aryan-dev007">
             <img src="https://avatars2.githubusercontent.com/u/61882780?v=4" width="100;" alt="Aryan-dev007"/>
@@ -123,20 +130,13 @@
             <br />
             <sub><b>Harshal S Zodape </b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/therc01">
             <img src="https://avatars0.githubusercontent.com/u/66589195?v=4" width="100;" alt="therc01"/>
             <br />
             <sub><b>Rahul Chauhan</b></sub>
-        </a>
-    </td></tr>
-<tr>
-    <td align="center">
-        <a href="https://github.com/siddharthgangwar25">
-            <img src="https://avatars1.githubusercontent.com/u/63447050?v=4" width="100;" alt="siddharthgangwar25"/>
-            <br />
-            <sub><b>Siddharth Gangwar</b></sub>
         </a>
     </td>
     <td align="center">
