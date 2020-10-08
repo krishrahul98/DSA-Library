@@ -78,7 +78,7 @@
         <a href="https://github.com/debarshi-1999">
             <img src="https://avatars1.githubusercontent.com/u/66899563?v=4" width="100;" alt="debarshi-1999"/>
             <br />
-            <sub><b>debarshi-1999</b></sub>
+            <sub><b>Debarshi-1999</b></sub>
         </a>
     </td>
     <td align="center">
