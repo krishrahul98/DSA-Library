@@ -1,30 +1,47 @@
-/* C Program for Insertion Sort */
+// Ascending order
+// Insertion Sort
+
 #include <stdio.h>
-int main()
+#include <time.h>
+
+void insertion_sort(int arr[], int l);
+void main()
 {
-    int a[100], number, i, j, temp;
-    
-    printf("\n Please Enter the total Number of Elements  :  ");
-    scanf("%d", &number);
-    
-    printf("\n Please Enter the Array Elements  :  ");
-    for(i = 0; i < number; i++)
-        scanf("%d", &a[i]);
-    
-    for(i = 1; i <= number - 1; i++)
-    {
-        for(j = i; j > 0 && a[j - 1] > a[j]; j--)
-        {
-                temp = a[j];
-                a[j] = a[j - 1];
-                a[j - 1] = temp;
-        }
-    }
-    printf("\n Insertion Sort Result : ");
-    for(i = 0; i < number; i++)
-    {
-        printf(" %d \t", a[i]);
-    }
-    printf("\n");
-    return 0;
+	int n;
+	scanf("%d",&n);
+	int arr[n], i, l;
+	printf("\nEnter the elements of array: ")
+	for(i=0; i<n; i++)
+	{
+		scanf("%d", &arr[i]);
+	}
+	printf("\nThe given array is : \n");
+	for(i=0; i<n; i++)
+	{
+		printf("%d  ", arr[i]);
+	}
+	insertion_sort(arr, n);
+	printf("\n\n\n The sorted array is : \n");
+	for(i=0; i<n; i++)
+	{
+		printf("%d  ", arr[i]);
+	}
+}
+
+void insertion_sort(int arr[], int l)
+{
+	int i, j, current;
+	for(i=1; i<l; i++)
+	{
+		current = arr[i];
+		j = i;
+		
+		while(j>0 && current<arr[j-1])
+		{
+			arr[j] = arr[j-1];
+			arr[j-1] = current;
+			j--;
+		}
+	}
+	
 }
