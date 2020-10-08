@@ -25,12 +25,27 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/anurag1299">
+            <img src="https://avatars3.githubusercontent.com/u/52789951?v=4" width="100;" alt="anurag1299"/>
+            <br />
+            <sub><b>Anurag More</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/falguni-k">
             <img src="https://avatars3.githubusercontent.com/u/49592710?v=4" width="100;" alt="falguni-k"/>
             <br />
             <sub><b>Falguni-k</b></sub>
         </a>
     </td>
+    <td align="center">
+        <a href="https://github.com/ritwiksingh21">
+            <img src="https://avatars3.githubusercontent.com/u/46321538?v=4" width="100;" alt="ritwiksingh21"/>
+            <br />
+            <sub><b>Ritwik Singh</b></sub>
+        </a>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/SanjayMarreddi">
             <img src="https://avatars0.githubusercontent.com/u/57671048?v=4" width="100;" alt="SanjayMarreddi"/>
@@ -44,8 +59,7 @@
             <br />
             <sub><b>Amulya</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/arihantbansal">
             <img src="https://avatars2.githubusercontent.com/u/17180950?v=4" width="100;" alt="arihantbansal"/>
@@ -61,17 +75,10 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/ritwiksingh21">
-            <img src="https://avatars3.githubusercontent.com/u/46321538?v=4" width="100;" alt="ritwiksingh21"/>
+        <a href="https://github.com/harsh0620">
+            <img src="https://avatars2.githubusercontent.com/u/57012784?v=4" width="100;" alt="harsh0620"/>
             <br />
-            <sub><b>Ritwik Singh</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/anurag1299">
-            <img src="https://avatars3.githubusercontent.com/u/52789951?v=4" width="100;" alt="anurag1299"/>
-            <br />
-            <sub><b>Anurag More</b></sub>
+            <sub><b>Harsh Chandravanshi</b></sub>
         </a>
     </td>
     <td align="center">
@@ -80,15 +87,15 @@
             <br />
             <sub><b>Siradanai B.</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/jayaganeshkumar">
             <img src="https://avatars0.githubusercontent.com/u/56192588?v=4" width="100;" alt="jayaganeshkumar"/>
             <br />
             <sub><b>Jayaganeshkumar</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/meghanagottapu">
             <img src="https://avatars0.githubusercontent.com/u/43183125?v=4" width="100;" alt="meghanagottapu"/>
