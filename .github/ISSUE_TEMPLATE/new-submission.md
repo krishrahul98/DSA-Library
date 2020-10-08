@@ -6,6 +6,9 @@ labels: Hacktoberfest, C++, Java, JavaScript, Python, C#, php, C
 assignees: ''
 
 ---
+Add comment to get assigned to your desired language.
+Follow Submission directory Structure for PR merge.
+
 
 **Submission Title**
 Binary Search/Selection sort/Stacks
