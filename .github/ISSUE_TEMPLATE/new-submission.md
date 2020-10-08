@@ -28,6 +28,5 @@ Main_Folder => Sub_Folder => ... => ... => Filename.extension
 - [ ]  C 
 - [ ]  Python
 - [ ] Java 
-- [ ] PHP
 - [ ] C#
 - [ ] JavaScript

@@ -14,7 +14,6 @@
 - [x] Python
 - [x] JavaScript
 - [x] C#
-- [x] PHP
 
 **Contribution Guidelines**
 ------------------------------
