@@ -147,6 +147,13 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/Lemorz56">
+            <img src="https://avatars1.githubusercontent.com/u/1346676?v=4" width="100;" alt="Lemorz56"/>
+            <br />
+            <sub><b>Sebastian Mossberg</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/therc01">
             <img src="https://avatars0.githubusercontent.com/u/66589195?v=4" width="100;" alt="therc01"/>
             <br />
@@ -166,15 +173,15 @@
             <br />
             <sub><b>Siradanai B.</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/meghanagottapu">
             <img src="https://avatars0.githubusercontent.com/u/43183125?v=4" width="100;" alt="meghanagottapu"/>
             <br />
             <sub><b>Meghana Gottapu</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/suprimnakarmi">
             <img src="https://avatars0.githubusercontent.com/u/54857456?v=4" width="100;" alt="suprimnakarmi"/>
