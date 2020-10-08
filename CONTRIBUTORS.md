@@ -75,10 +75,25 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/debarshi-1999">
+            <img src="https://avatars1.githubusercontent.com/u/66899563?v=4" width="100;" alt="debarshi-1999"/>
+            <br />
+            <sub><b>debarshi-1999</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/harsh0620">
             <img src="https://avatars2.githubusercontent.com/u/57012784?v=4" width="100;" alt="harsh0620"/>
             <br />
             <sub><b>Harsh Chandravanshi</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
+        <a href="https://github.com/amintai">
+            <img src="https://avatars0.githubusercontent.com/u/50178043?v=4" width="100;" alt="amintai"/>
+            <br />
+            <sub><b>Amin Tai</b></sub>
         </a>
     </td>
     <td align="center">
@@ -87,8 +102,7 @@
             <br />
             <sub><b>Siradanai B.</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/jayaganeshkumar">
             <img src="https://avatars0.githubusercontent.com/u/56192588?v=4" width="100;" alt="jayaganeshkumar"/>
