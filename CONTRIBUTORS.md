@@ -147,6 +147,13 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/ShristiAgrawal">
+            <img src="https://avatars0.githubusercontent.com/u/33164492?v=4" width="100;" alt="ShristiAgrawal"/>
+            <br />
+            <sub><b>ShristiAgrawal</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/amintai">
             <img src="https://avatars0.githubusercontent.com/u/50178043?v=4" width="100;" alt="amintai"/>
             <br />
@@ -166,7 +173,8 @@
             <br />
             <sub><b>Meghana Gottapu</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/suprimnakarmi">
             <img src="https://avatars0.githubusercontent.com/u/54857456?v=4" width="100;" alt="suprimnakarmi"/>
