@@ -18,6 +18,20 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/Srithanya">
+            <img src="https://avatars2.githubusercontent.com/u/44163421?v=4" width="100;" alt="Srithanya"/>
+            <br />
+            <sub><b>Srithanya</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Amulya-coder">
+            <img src="https://avatars0.githubusercontent.com/u/66437295?v=4" width="100;" alt="Amulya-coder"/>
+            <br />
+            <sub><b>Amulya</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/arihantbansal">
             <img src="https://avatars2.githubusercontent.com/u/17180950?v=4" width="100;" alt="arihantbansal"/>
             <br />
@@ -30,34 +44,27 @@
             <br />
             <sub><b>Aryan</b></sub>
         </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Srithanya">
-            <img src="https://avatars2.githubusercontent.com/u/44163421?v=4" width="100;" alt="Srithanya"/>
-            <br />
-            <sub><b>Srithanya</b></sub>
-        </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/shin-iji">
             <img src="https://avatars0.githubusercontent.com/u/50923330?v=4" width="100;" alt="shin-iji"/>
             <br />
             <sub><b>Siradanai B.</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/falguni-k">
             <img src="https://avatars3.githubusercontent.com/u/49592710?v=4" width="100;" alt="falguni-k"/>
             <br />
-            <sub><b>falguni-k</b></sub>
+            <sub><b>Falguni-k</b></sub>
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/jayaganeshkumar">
             <img src="https://avatars0.githubusercontent.com/u/56192588?v=4" width="100;" alt="jayaganeshkumar"/>
             <br />
-            <sub><b>jayaganeshkumar</b></sub>
+            <sub><b>Jayaganeshkumar</b></sub>
         </a>
     </td>
     <td align="center">
