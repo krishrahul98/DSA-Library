@@ -11,3 +11,4 @@ jobs:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
               with: 
                   readme_path: CONTRIBUTORS.md
+                  commit_message: new contributor added
