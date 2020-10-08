@@ -54,13 +54,6 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/PRATITICHANDA">
-            <img src="https://avatars1.githubusercontent.com/u/55646786?v=4" width="100;" alt="PRATITICHANDA"/>
-            <br />
-            <sub><b>PRATITI CHANDA</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/SanjayMarreddi">
             <img src="https://avatars0.githubusercontent.com/u/57671048?v=4" width="100;" alt="SanjayMarreddi"/>
             <br />
@@ -87,15 +80,15 @@
             <br />
             <sub><b>Arihant Bansal</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Aryan-dev007">
             <img src="https://avatars2.githubusercontent.com/u/61882780?v=4" width="100;" alt="Aryan-dev007"/>
             <br />
             <sub><b>Aryan</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/BraveeSnow">
             <img src="https://avatars0.githubusercontent.com/u/45154227?v=4" width="100;" alt="BraveeSnow"/>
@@ -130,15 +123,15 @@
             <br />
             <sub><b>Rahul Chauhan</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/siddharthgangwar25">
             <img src="https://avatars1.githubusercontent.com/u/63447050?v=4" width="100;" alt="siddharthgangwar25"/>
             <br />
             <sub><b>Siddharth Gangwar</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/amintai">
             <img src="https://avatars0.githubusercontent.com/u/50178043?v=4" width="100;" alt="amintai"/>
