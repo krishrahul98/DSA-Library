@@ -39,13 +39,20 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/harsh0620">
+            <img src="https://avatars2.githubusercontent.com/u/57012784?v=4" width="100;" alt="harsh0620"/>
+            <br />
+            <sub><b>Harsh Chandravanshi</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
         <a href="https://github.com/ritwiksingh21">
             <img src="https://avatars3.githubusercontent.com/u/46321538?v=4" width="100;" alt="ritwiksingh21"/>
             <br />
             <sub><b>Ritwik Singh</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/SanjayMarreddi">
             <img src="https://avatars0.githubusercontent.com/u/57671048?v=4" width="100;" alt="SanjayMarreddi"/>
@@ -75,6 +82,14 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/BrianAnakPintar">
+            <img src="https://avatars2.githubusercontent.com/u/69195029?v=4" width="100;" alt="BrianAnakPintar"/>
+            <br />
+            <sub><b>BrianAnakPintar</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
         <a href="https://github.com/debarshi-1999">
             <img src="https://avatars1.githubusercontent.com/u/66899563?v=4" width="100;" alt="debarshi-1999"/>
             <br />
@@ -82,13 +97,12 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/harsh0620">
-            <img src="https://avatars2.githubusercontent.com/u/57012784?v=4" width="100;" alt="harsh0620"/>
+        <a href="https://github.com/therc01">
+            <img src="https://avatars0.githubusercontent.com/u/66589195?v=4" width="100;" alt="therc01"/>
             <br />
-            <sub><b>Harsh Chandravanshi</b></sub>
+            <sub><b>Rahul Chauhan</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/amintai">
             <img src="https://avatars0.githubusercontent.com/u/50178043?v=4" width="100;" alt="amintai"/>
@@ -116,7 +130,8 @@
             <br />
             <sub><b>Meghana Gottapu</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/suprimnakarmi">
             <img src="https://avatars0.githubusercontent.com/u/54857456?v=4" width="100;" alt="suprimnakarmi"/>
