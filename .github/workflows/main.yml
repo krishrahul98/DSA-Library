@@ -9,7 +9,8 @@ jobs:
               uses: akhilmhdh/contributors-readme-action@v2.0.2
               env:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-                  
-	with:
-		image_size: 100
-		readme_path: CONTRIBUTORS.md
+        - name: Contribute List
+  		uses: akhilmhdh/contributors-readme-action@v2.0          
+		with:
+			image_size: 100
+			readme_path: CONTRIBUTORS.md
