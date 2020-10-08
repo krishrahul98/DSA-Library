@@ -40,5 +40,5 @@ len=array.length
       end for
 return arr
 }    
-pass the argument
+pass the argument array
 */  
