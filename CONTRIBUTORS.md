@@ -54,13 +54,6 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/harsh0620">
-            <img src="https://avatars2.githubusercontent.com/u/57012784?v=4" width="100;" alt="harsh0620"/>
-            <br />
-            <sub><b>Harsh Chandravanshi</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/Amulya-coder">
             <img src="https://avatars0.githubusercontent.com/u/66437295?v=4" width="100;" alt="Amulya-coder"/>
             <br />
@@ -87,15 +80,15 @@
             <br />
             <sub><b>Debarshi-1999</b></sub>
         </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/harsh0620">
+            <img src="https://avatars2.githubusercontent.com/u/57012784?v=4" width="100;" alt="harsh0620"/>
+            <br />
+            <sub><b>Harsh Chandravanshi</b></sub>
+        </a>
     </td></tr>
 <tr>
-    <td align="center">
-        <a href="https://github.com/therc01">
-            <img src="https://avatars0.githubusercontent.com/u/66589195?v=4" width="100;" alt="therc01"/>
-            <br />
-            <sub><b>Rahul Chauhan</b></sub>
-        </a>
-    </td>
     <td align="center">
         <a href="https://github.com/amintai">
             <img src="https://avatars0.githubusercontent.com/u/50178043?v=4" width="100;" alt="amintai"/>
