@@ -79,6 +79,13 @@ $ git push origin master
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/Srithanya">
+            <img src="https://avatars2.githubusercontent.com/u/44163421?v=4" width="100;" alt="Srithanya"/>
+            <br />
+            <sub><b>Srithanya</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/Amulya-coder">
             <img src="https://avatars0.githubusercontent.com/u/66437295?v=4" width="100;" alt="Amulya-coder"/>
             <br />
@@ -97,13 +104,6 @@ $ git push origin master
             <img src="https://avatars2.githubusercontent.com/u/61882780?v=4" width="100;" alt="Aryan-dev007"/>
             <br />
             <sub><b>Aryan</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Srithanya">
-            <img src="https://avatars2.githubusercontent.com/u/44163421?v=4" width="100;" alt="Srithanya"/>
-            <br />
-            <sub><b>Srithanya</b></sub>
         </a>
     </td></tr>
 <tr>
