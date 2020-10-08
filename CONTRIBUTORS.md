@@ -18,6 +18,13 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/ritwiksingh21">
+            <img src="https://avatars3.githubusercontent.com/u/46321538?v=4" width="100;" alt="ritwiksingh21"/>
+            <br />
+            <sub><b>Ritwik Singh</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/Srithanya">
             <img src="https://avatars2.githubusercontent.com/u/44163421?v=4" width="100;" alt="Srithanya"/>
             <br />
@@ -37,20 +44,13 @@
             <br />
             <sub><b>Falguni-k</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/harsh0620">
             <img src="https://avatars2.githubusercontent.com/u/57012784?v=4" width="100;" alt="harsh0620"/>
             <br />
             <sub><b>Harsh Chandravanshi</b></sub>
-        </a>
-    </td></tr>
-<tr>
-    <td align="center">
-        <a href="https://github.com/ritwiksingh21">
-            <img src="https://avatars3.githubusercontent.com/u/46321538?v=4" width="100;" alt="ritwiksingh21"/>
-            <br />
-            <sub><b>Ritwik Singh</b></sub>
         </a>
     </td>
     <td align="center">
@@ -58,6 +58,13 @@
             <img src="https://avatars0.githubusercontent.com/u/57671048?v=4" width="100;" alt="SanjayMarreddi"/>
             <br />
             <sub><b>Sanjay Marreddi</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/jayaganeshkumar">
+            <img src="https://avatars0.githubusercontent.com/u/56192588?v=4" width="100;" alt="jayaganeshkumar"/>
+            <br />
+            <sub><b>Jayaganeshkumar</b></sub>
         </a>
     </td>
     <td align="center">
@@ -80,6 +87,14 @@
             <br />
             <sub><b>Aryan</b></sub>
         </a>
+    </td></tr>
+<tr>
+    <td align="center">
+        <a href="https://github.com/BraveeSnow">
+            <img src="https://avatars0.githubusercontent.com/u/45154227?v=4" width="100;" alt="BraveeSnow"/>
+            <br />
+            <sub><b>David Long</b></sub>
+        </a>
     </td>
     <td align="center">
         <a href="https://github.com/BrianAnakPintar">
@@ -87,13 +102,19 @@
             <br />
             <sub><b>BrianAnakPintar</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/debarshi-1999">
             <img src="https://avatars1.githubusercontent.com/u/66899563?v=4" width="100;" alt="debarshi-1999"/>
             <br />
             <sub><b>Debarshi-1999</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Harshalszz">
+            <img src="https://avatars3.githubusercontent.com/u/61976596?v=4" width="100;" alt="Harshalszz"/>
+            <br />
+            <sub><b>Harshal S Zodape </b></sub>
         </a>
     </td>
     <td align="center">
@@ -103,6 +124,14 @@
             <sub><b>Rahul Chauhan</b></sub>
         </a>
     </td>
+    <td align="center">
+        <a href="https://github.com/siddharthgangwar25">
+            <img src="https://avatars1.githubusercontent.com/u/63447050?v=4" width="100;" alt="siddharthgangwar25"/>
+            <br />
+            <sub><b>Siddharth Gangwar</b></sub>
+        </a>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/amintai">
             <img src="https://avatars0.githubusercontent.com/u/50178043?v=4" width="100;" alt="amintai"/>
@@ -118,20 +147,12 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/jayaganeshkumar">
-            <img src="https://avatars0.githubusercontent.com/u/56192588?v=4" width="100;" alt="jayaganeshkumar"/>
-            <br />
-            <sub><b>Jayaganeshkumar</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/meghanagottapu">
             <img src="https://avatars0.githubusercontent.com/u/43183125?v=4" width="100;" alt="meghanagottapu"/>
             <br />
             <sub><b>Meghana Gottapu</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/suprimnakarmi">
             <img src="https://avatars0.githubusercontent.com/u/54857456?v=4" width="100;" alt="suprimnakarmi"/>
