@@ -2,7 +2,7 @@
 name: New Submission
 about: Use this for adding new algorithms and data structures
 title: Issue Title
-labels: C#, C++, Hacktoberfest, Java, JavaScript, Python, php
+labels: Hacktoberfest, C++, Java, JavaScript, Python, C#, php, C
 assignees: ''
 
 ---
