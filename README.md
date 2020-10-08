@@ -111,14 +111,14 @@ $ git push origin master
         <a href="https://github.com/falguni-k">
             <img src="https://avatars3.githubusercontent.com/u/49592710?v=4" width="100;" alt="falguni-k"/>
             <br />
-            <sub><b>falguni-k</b></sub>
+            <sub><b>Falguni-k</b></sub>
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/jayaganeshkumar">
             <img src="https://avatars0.githubusercontent.com/u/56192588?v=4" width="100;" alt="jayaganeshkumar"/>
             <br />
-            <sub><b>jayaganeshkumar</b></sub>
+            <sub><b>Jayaganeshkumar</b></sub>
         </a>
     </td>
     <td align="center">
