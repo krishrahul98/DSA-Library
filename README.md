@@ -60,7 +60,9 @@ $ git push origin master
 
 ```
 ## Contributors
-Meet our wonderful [contributors](/CONTRIBUTORS.md).
+
+<!-- readme: collaborators,contributors -start -->
+<!-- readme: collaborators,contributors -end -->
 
 ## Code of Conduct
 Read our [code of conduct](/CODE_OF_CONDUCT.md).
