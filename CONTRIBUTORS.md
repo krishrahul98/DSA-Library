@@ -4,13 +4,6 @@
 <table>
 <tr>
     <td align="center">
-        <a href="https://github.com/falguni-k">
-            <img src="https://avatars3.githubusercontent.com/u/49592710?v=4" width="100;" alt="falguni-k"/>
-            <br />
-            <sub><b>Falguni-k</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/krishrahul98">
             <img src="https://avatars0.githubusercontent.com/u/28896220?v=4" width="100;" alt="krishrahul98"/>
             <br />
@@ -29,6 +22,13 @@
             <img src="https://avatars2.githubusercontent.com/u/44163421?v=4" width="100;" alt="Srithanya"/>
             <br />
             <sub><b>Srithanya</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/falguni-k">
+            <img src="https://avatars3.githubusercontent.com/u/49592710?v=4" width="100;" alt="falguni-k"/>
+            <br />
+            <sub><b>Falguni-k</b></sub>
         </a>
     </td>
     <td align="center">
