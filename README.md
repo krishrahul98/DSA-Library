@@ -25,8 +25,8 @@
 
 **Index**
 -----------
-- [Algorithms](Algorithms)
-- [Data Structures](Data_Structures)
+- [Algorithms](https://github.com/krishrahul98/DSA-Library/tree/main/Algorithms)
+- [Data Structures](https://github.com/krishrahul98/DSA-Library/tree/main/Data_Structures)
 
 
 **Contribution Guidelines**
