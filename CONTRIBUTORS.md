@@ -82,13 +82,20 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/BraveeSnow">
+            <img src="https://avatars0.githubusercontent.com/u/45154227?v=4" width="100;" alt="BraveeSnow"/>
+            <br />
+            <sub><b>David Long</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
         <a href="https://github.com/jayaganeshkumar">
             <img src="https://avatars0.githubusercontent.com/u/56192588?v=4" width="100;" alt="jayaganeshkumar"/>
             <br />
             <sub><b>Jayaganeshkumar</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/BrianAnakPintar">
             <img src="https://avatars2.githubusercontent.com/u/69195029?v=4" width="100;" alt="BrianAnakPintar"/>
@@ -123,15 +130,15 @@
             <br />
             <sub><b>ShristiAgrawal</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/asamant">
             <img src="https://avatars1.githubusercontent.com/u/43705966?v=4" width="100;" alt="asamant"/>
             <br />
             <sub><b>Aniket Samant</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Aditi014">
             <img src="https://avatars0.githubusercontent.com/u/48182649?v=4" width="100;" alt="Aditi014"/>
@@ -165,13 +172,6 @@
             <img src="https://avatars2.githubusercontent.com/u/61882780?v=4" width="100;" alt="Aryan-dev007"/>
             <br />
             <sub><b>Aryan</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/BraveeSnow">
-            <img src="https://avatars0.githubusercontent.com/u/45154227?v=4" width="100;" alt="BraveeSnow"/>
-            <br />
-            <sub><b>David Long</b></sub>
         </a>
     </td></tr>
 <tr>
