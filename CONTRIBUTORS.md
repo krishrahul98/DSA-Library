@@ -61,13 +61,6 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/jayaganeshkumar">
-            <img src="https://avatars0.githubusercontent.com/u/56192588?v=4" width="100;" alt="jayaganeshkumar"/>
-            <br />
-            <sub><b>Jayaganeshkumar</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/PRATITICHANDA">
             <img src="https://avatars1.githubusercontent.com/u/55646786?v=4" width="100;" alt="PRATITICHANDA"/>
             <br />
@@ -87,13 +80,20 @@
             <br />
             <sub><b>Shristi Singh</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/ShristiAgrawal">
             <img src="https://avatars0.githubusercontent.com/u/33164492?v=4" width="100;" alt="ShristiAgrawal"/>
             <br />
             <sub><b>ShristiAgrawal</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
+        <a href="https://github.com/jayaganeshkumar">
+            <img src="https://avatars0.githubusercontent.com/u/56192588?v=4" width="100;" alt="jayaganeshkumar"/>
+            <br />
+            <sub><b>Jayaganeshkumar</b></sub>
         </a>
     </td>
     <td align="center">
