@@ -147,13 +147,6 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/AnkitaM84">
-            <img src="https://avatars0.githubusercontent.com/u/60255963?v=4" width="100;" alt="AnkitaM84"/>
-            <br />
-            <sub><b>AnkitaM84</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/arihantbansal">
             <img src="https://avatars2.githubusercontent.com/u/17180950?v=4" width="100;" alt="arihantbansal"/>
             <br />
@@ -173,15 +166,15 @@
             <br />
             <sub><b>David Long</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Danotsonof">
             <img src="https://avatars3.githubusercontent.com/u/22982031?v=4" width="100;" alt="Danotsonof"/>
             <br />
             <sub><b>Daniel Otulagun</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/debarshi-1999">
             <img src="https://avatars1.githubusercontent.com/u/66899563?v=4" width="100;" alt="debarshi-1999"/>
@@ -215,6 +208,13 @@
             <img src="https://avatars0.githubusercontent.com/u/50923330?v=4" width="100;" alt="shin-iji"/>
             <br />
             <sub><b>Siradanai B.</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/meghanagottapu">
+            <img src="https://avatars0.githubusercontent.com/u/43183125?v=4" width="100;" alt="meghanagottapu"/>
+            <br />
+            <sub><b>Meghana Gottapu</b></sub>
         </a>
     </td></tr>
 </table>
