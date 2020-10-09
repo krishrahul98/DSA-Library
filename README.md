@@ -1,5 +1,12 @@
 # DSA-Library
 
+![GitHub pull requests](https://img.shields.io/github/issues-pr/krishrahul98/DSA-Library?style=flat-square) 
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/krishrahul98/DSA-Library?style=flat-square)
+![GitHub closed issues](https://img.shields.io/github/issues-closed/krishrahul98/DSA-Library?style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues/krishrahul98/DSA-Library?style=flat-square)
+![GitHub language count](https://img.shields.io/github/languages/count/krishrahul98/DSA-Library?style=flat-square)
+
+
 **Overview**
 ------------------------------
 
@@ -14,7 +21,13 @@
 - [x] Python
 - [x] JavaScript
 - [x] C#
-- [x] PHP
+
+
+**Index**
+-----------
+- [Algorithms](Algorithms)
+- [Data Structures](Data_Structures)
+
 
 **Contribution Guidelines**
 ------------------------------
@@ -59,3 +72,13 @@ $ git reset --hard upstream/master
 $ git push origin master
 
 ```
+## Contributors
+
+Meet our wonderful [contributors](/CONTRIBUTORS.md).
+
+
+## Code of Conduct
+Read our [code of conduct](/CODE_OF_CONDUCT.md).
+
+## License
+[MIT License](/LICENSE).
