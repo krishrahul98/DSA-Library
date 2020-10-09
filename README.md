@@ -4,7 +4,7 @@
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/krishrahul98/DSA-Library?style=flat-square)
 ![GitHub closed issues](https://img.shields.io/github/issues-closed/krishrahul98/DSA-Library?style=flat-square)
 ![GitHub issues](https://img.shields.io/github/issues/krishrahul98/DSA-Library?style=flat-square)
-![GitHub language count](https://img.shields.io/github/languages/count/krishrahul98/DSA-Library?style=flat-square)
+![Lines of code](https://img.shields.io/tokei/lines/github/krishrahul98/DSA-Library?style=flat-square)
 
 
 **Overview**
