@@ -125,13 +125,20 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/asamant">
+            <img src="https://avatars1.githubusercontent.com/u/43705966?v=4" width="100;" alt="asamant"/>
+            <br />
+            <sub><b>Aniket Samant</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
         <a href="https://github.com/Aditi014">
             <img src="https://avatars0.githubusercontent.com/u/48182649?v=4" width="100;" alt="Aditi014"/>
             <br />
             <sub><b>Aditi014</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Amulya-coder">
             <img src="https://avatars0.githubusercontent.com/u/66437295?v=4" width="100;" alt="Amulya-coder"/>
@@ -166,15 +173,15 @@
             <br />
             <sub><b>Daniel Otulagun</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/debarshi-1999">
             <img src="https://avatars1.githubusercontent.com/u/66899563?v=4" width="100;" alt="debarshi-1999"/>
             <br />
             <sub><b>Debarshi-1999</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Lemorz56">
             <img src="https://avatars1.githubusercontent.com/u/1346676?v=4" width="100;" alt="Lemorz56"/>
@@ -194,13 +201,6 @@
             <img src="https://avatars0.githubusercontent.com/u/50178043?v=4" width="100;" alt="amintai"/>
             <br />
             <sub><b>Amin Tai</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/asamant">
-            <img src="https://avatars1.githubusercontent.com/u/43705966?v=4" width="100;" alt="asamant"/>
-            <br />
-            <sub><b>Aniket Samant</b></sub>
         </a>
     </td>
     <td align="center">
