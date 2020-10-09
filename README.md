@@ -72,7 +72,7 @@ $ git reset --hard upstream/master
 $ git push origin master
 
 ```
-## Contributors
+## Contributors 🎉
 
 Meet our wonderful [contributors](/CONTRIBUTORS.md).
 
