@@ -33,4 +33,5 @@
  - [Quick Sort](https://github.com/krishrahul98/DSA-Library/tree/main/Algorithms/Sorting/Quick_Sort)
  - [Radix Sort](https://github.com/krishrahul98/DSA-Library/tree/main/Algorithms/Sorting/Radix_Sort)
  - [Selection Sort](https://github.com/krishrahul98/DSA-Library/tree/main/Algorithms/Sorting/Selection_Sort)
+ - [Shell Sort](https://github.com/krishrahul98/DSA-Library/tree/main/Algorithms/Sorting/Shell_Sort)
  
