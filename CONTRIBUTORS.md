@@ -61,6 +61,20 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/jayaganeshkumar">
+            <img src="https://avatars0.githubusercontent.com/u/56192588?v=4" width="100;" alt="jayaganeshkumar"/>
+            <br />
+            <sub><b>Jayaganeshkumar</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/BrianAnakPintar">
+            <img src="https://avatars2.githubusercontent.com/u/69195029?v=4" width="100;" alt="BrianAnakPintar"/>
+            <br />
+            <sub><b>BrianAnakPintar</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/PRATITICHANDA">
             <img src="https://avatars1.githubusercontent.com/u/55646786?v=4" width="100;" alt="PRATITICHANDA"/>
             <br />
@@ -73,7 +87,8 @@
             <br />
             <sub><b>Sanjay Marreddi</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/confusedcoder1">
             <img src="https://avatars1.githubusercontent.com/u/55556359?v=4" width="100;" alt="confusedcoder1"/>
@@ -86,14 +101,6 @@
             <img src="https://avatars0.githubusercontent.com/u/33164492?v=4" width="100;" alt="ShristiAgrawal"/>
             <br />
             <sub><b>ShristiAgrawal</b></sub>
-        </a>
-    </td></tr>
-<tr>
-    <td align="center">
-        <a href="https://github.com/jayaganeshkumar">
-            <img src="https://avatars0.githubusercontent.com/u/56192588?v=4" width="100;" alt="jayaganeshkumar"/>
-            <br />
-            <sub><b>Jayaganeshkumar</b></sub>
         </a>
     </td>
     <td align="center">
@@ -122,13 +129,6 @@
             <img src="https://avatars0.githubusercontent.com/u/45154227?v=4" width="100;" alt="BraveeSnow"/>
             <br />
             <sub><b>David Long</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/BrianAnakPintar">
-            <img src="https://avatars2.githubusercontent.com/u/69195029?v=4" width="100;" alt="BrianAnakPintar"/>
-            <br />
-            <sub><b>BrianAnakPintar</b></sub>
         </a>
     </td></tr>
 <tr>
@@ -187,6 +187,13 @@
             <img src="https://avatars0.githubusercontent.com/u/43183125?v=4" width="100;" alt="meghanagottapu"/>
             <br />
             <sub><b>Meghana Gottapu</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/PrajaktaS23">
+            <img src="https://avatars3.githubusercontent.com/u/59256661?v=4" width="100;" alt="PrajaktaS23"/>
+            <br />
+            <sub><b>PrajaktaS23</b></sub>
         </a>
     </td>
     <td align="center">
