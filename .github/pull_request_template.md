@@ -19,3 +19,6 @@ Algorithm => Search_Algorithm => Linear_Search => Linear_Search.py
 - [ ] I've read the contribution guidelines.
 - [ ] I've referred the correct issue number.
 - [ ] I've filled up this entire template correctly.
+
+
+:star2: this repository and support.
