@@ -22,6 +22,13 @@
 - [x] JavaScript
 - [x] C#
 
+
+**Index**
+-----------
+- [Algorithms](Algorithms)
+- [Data Structures](Data_Structures)
+
+
 **Contribution Guidelines**
 ------------------------------
 
