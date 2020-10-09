@@ -1,5 +1,3 @@
-package net.braveesnow;
-
 import java.util.Arrays;
 
 /**
