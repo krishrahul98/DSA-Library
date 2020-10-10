@@ -125,13 +125,20 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/SaloniK17">
+            <img src="https://avatars3.githubusercontent.com/u/72257250?v=4" width="100;" alt="SaloniK17"/>
+            <br />
+            <sub><b>SaloniK17</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
         <a href="https://github.com/SanjayMarreddi">
             <img src="https://avatars0.githubusercontent.com/u/57671048?v=4" width="100;" alt="SanjayMarreddi"/>
             <br />
             <sub><b>Sanjay Marreddi</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/confusedcoder1">
             <img src="https://avatars1.githubusercontent.com/u/55556359?v=4" width="100;" alt="confusedcoder1"/>
@@ -166,15 +173,15 @@
             <br />
             <sub><b>Amulya</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/arihantbansal">
             <img src="https://avatars2.githubusercontent.com/u/17180950?v=4" width="100;" alt="arihantbansal"/>
             <br />
             <sub><b>Arihant Bansal</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Aryan-dev007">
             <img src="https://avatars2.githubusercontent.com/u/61882780?v=4" width="100;" alt="Aryan-dev007"/>
@@ -208,13 +215,6 @@
             <img src="https://avatars1.githubusercontent.com/u/37245819?v=4" width="100;" alt="EANimesha"/>
             <br />
             <sub><b>Nimesha Dilini</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/SaloniK17">
-            <img src="https://avatars3.githubusercontent.com/u/72257250?v=4" width="100;" alt="SaloniK17"/>
-            <br />
-            <sub><b>SaloniK17</b></sub>
         </a>
     </td></tr>
 </table>
