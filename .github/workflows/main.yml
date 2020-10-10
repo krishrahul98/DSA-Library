@@ -13,3 +13,4 @@ jobs:
               with: 
                   readme_path: CONTRIBUTORS.md
                   commit_message: new contributor added
+                  committer_username: github-actions
