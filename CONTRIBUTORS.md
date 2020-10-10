@@ -204,17 +204,17 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/vieee">
+            <img src="https://avatars3.githubusercontent.com/u/47855729?v=4" width="100;" alt="vieee"/>
+            <br />
+            <sub><b>Deepak Yadav</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/Lemorz56">
             <img src="https://avatars1.githubusercontent.com/u/1346676?v=4" width="100;" alt="Lemorz56"/>
             <br />
             <sub><b>Sebastian Mossberg</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/EANimesha">
-            <img src="https://avatars1.githubusercontent.com/u/37245819?v=4" width="100;" alt="EANimesha"/>
-            <br />
-            <sub><b>Nimesha Dilini</b></sub>
         </a>
     </td></tr>
 </table>
