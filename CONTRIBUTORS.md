@@ -205,17 +205,17 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/koshtaayush">
+            <img src="https://avatars1.githubusercontent.com/u/14069441?v=4" width="100;" alt="koshtaayush"/>
+            <br />
+            <sub><b>Ayush Koshta</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/Danotsonof">
             <img src="https://avatars3.githubusercontent.com/u/22982031?v=4" width="100;" alt="Danotsonof"/>
             <br />
             <sub><b>Daniel Otulagun</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/debarshi-1999">
-            <img src="https://avatars1.githubusercontent.com/u/66899563?v=4" width="100;" alt="debarshi-1999"/>
-            <br />
-            <sub><b>Debarshi-1999</b></sub>
         </a>
     </td></tr>
 </table>
