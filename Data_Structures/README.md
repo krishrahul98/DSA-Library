@@ -33,5 +33,6 @@
 **Tree**
 ----------
 
-- [Binary Search Tree Implementation](https://github.com/krishrahul98/DSA-Library/tree/main/Data_Structures/Tree/BST/Implementation)
-- [Flatten BST into Singly Linked List](https://github.com/krishrahul98/DSA-Library/tree/main/Data_Structures/Tree/BST/Flatten_Binary_Tree)
+- [Binary Search Tree Implementation](https://github.com/krishrahul98/DSA-Library/tree/main/Data_Structures/Tree/BST_Implementation)
+- [Binary Tree Traversal](https://github.com/krishrahul98/DSA-Library/tree/main/Data_Structures/Tree/Binary_Tree_Traversal)
+- [Flatten Binary Tree into Singly Linked List](https://github.com/krishrahul98/DSA-Library/tree/main/Data_Structures/Tree/BST/Flatten_Binary_Tree)
