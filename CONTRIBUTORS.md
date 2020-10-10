@@ -18,13 +18,6 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/AnkitaM84">
-            <img src="https://avatars0.githubusercontent.com/u/60255963?v=4" width="100;" alt="AnkitaM84"/>
-            <br />
-            <sub><b>AnkitaM84</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/sumasreeeduru">
             <img src="https://avatars1.githubusercontent.com/u/44165457?v=4" width="100;" alt="sumasreeeduru"/>
             <br />
@@ -44,15 +37,15 @@
             <br />
             <sub><b>Srithanya</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/anurag1299">
             <img src="https://avatars3.githubusercontent.com/u/52789951?v=4" width="100;" alt="anurag1299"/>
             <br />
             <sub><b>Anurag More</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/falguni-k">
             <img src="https://avatars3.githubusercontent.com/u/49592710?v=4" width="100;" alt="falguni-k"/>
@@ -72,6 +65,13 @@
             <img src="https://avatars2.githubusercontent.com/u/57012784?v=4" width="100;" alt="harsh0620"/>
             <br />
             <sub><b>Harsh Chandravanshi</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/AnkitaM84">
+            <img src="https://avatars0.githubusercontent.com/u/60255963?v=4" width="100;" alt="AnkitaM84"/>
+            <br />
+            <sub><b>AnkitaM84</b></sub>
         </a>
     </td>
     <td align="center">
