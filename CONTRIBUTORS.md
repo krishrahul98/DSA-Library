@@ -204,17 +204,17 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/SaloniK17">
+            <img src="https://avatars3.githubusercontent.com/u/72257250?v=4" width="100;" alt="SaloniK17"/>
+            <br />
+            <sub><b>SaloniK17</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/Siddhant-K-code">
             <img src="https://avatars0.githubusercontent.com/u/55068936?v=4" width="100;" alt="Siddhant-K-code"/>
             <br />
             <sub><b>Siddhant Khare</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/amintai">
-            <img src="https://avatars0.githubusercontent.com/u/50178043?v=4" width="100;" alt="amintai"/>
-            <br />
-            <sub><b>Amin Tai</b></sub>
         </a>
     </td></tr>
 </table>
