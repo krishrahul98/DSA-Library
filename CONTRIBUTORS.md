@@ -18,6 +18,13 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/AnkitaM84">
+            <img src="https://avatars0.githubusercontent.com/u/60255963?v=4" width="100;" alt="AnkitaM84"/>
+            <br />
+            <sub><b>AnkitaM84</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/sumasreeeduru">
             <img src="https://avatars1.githubusercontent.com/u/44165457?v=4" width="100;" alt="sumasreeeduru"/>
             <br />
@@ -37,15 +44,15 @@
             <br />
             <sub><b>Srithanya</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/anurag1299">
             <img src="https://avatars3.githubusercontent.com/u/52789951?v=4" width="100;" alt="anurag1299"/>
             <br />
             <sub><b>Anurag More</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/falguni-k">
             <img src="https://avatars3.githubusercontent.com/u/49592710?v=4" width="100;" alt="falguni-k"/>
@@ -68,13 +75,6 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/AnkitaM84">
-            <img src="https://avatars0.githubusercontent.com/u/60255963?v=4" width="100;" alt="AnkitaM84"/>
-            <br />
-            <sub><b>AnkitaM84</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/Harshalszz">
             <img src="https://avatars3.githubusercontent.com/u/61976596?v=4" width="100;" alt="Harshalszz"/>
             <br />
@@ -82,13 +82,20 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/Rohit-2602">
+            <img src="https://avatars0.githubusercontent.com/u/65807152?v=4" width="100;" alt="Rohit-2602"/>
+            <br />
+            <sub><b>Rohit Sharma</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
         <a href="https://github.com/siddharthgangwar25">
             <img src="https://avatars1.githubusercontent.com/u/63447050?v=4" width="100;" alt="siddharthgangwar25"/>
             <br />
             <sub><b>Siddharth Gangwar</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/BraveeSnow">
             <img src="https://avatars0.githubusercontent.com/u/45154227?v=4" width="100;" alt="BraveeSnow"/>
@@ -123,15 +130,15 @@
             <br />
             <sub><b>Sanjay Marreddi</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/confusedcoder1">
             <img src="https://avatars1.githubusercontent.com/u/55556359?v=4" width="100;" alt="confusedcoder1"/>
             <br />
             <sub><b>Shristi Singh</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/ShristiAgrawal">
             <img src="https://avatars0.githubusercontent.com/u/33164492?v=4" width="100;" alt="ShristiAgrawal"/>
@@ -166,15 +173,15 @@
             <br />
             <sub><b>Arihant Bansal</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Aryan-dev007">
             <img src="https://avatars2.githubusercontent.com/u/61882780?v=4" width="100;" alt="Aryan-dev007"/>
             <br />
             <sub><b>Aryan</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Danotsonof">
             <img src="https://avatars3.githubusercontent.com/u/22982031?v=4" width="100;" alt="Danotsonof"/>
@@ -208,13 +215,6 @@
             <img src="https://avatars3.githubusercontent.com/u/72257250?v=4" width="100;" alt="SaloniK17"/>
             <br />
             <sub><b>SaloniK17</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Siddhant-K-code">
-            <img src="https://avatars0.githubusercontent.com/u/55068936?v=4" width="100;" alt="Siddhant-K-code"/>
-            <br />
-            <sub><b>Siddhant Khare</b></sub>
         </a>
     </td></tr>
 </table>
