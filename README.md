@@ -22,7 +22,10 @@
 - [x] JavaScript
 - [x] C#
 
-*Need Collaborators, If interested contact me*.
+**Need Collaborators, If interested contact me**.
+
+**Show some love by leaving a :star2:** 
+
 
 **Index**
 -----------
