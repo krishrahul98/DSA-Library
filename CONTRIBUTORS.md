@@ -190,6 +190,13 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/avinashpai">
+            <img src="https://avatars1.githubusercontent.com/u/38055124?v=4" width="100;" alt="avinashpai"/>
+            <br />
+            <sub><b>Avinash Pai</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/Danotsonof">
             <img src="https://avatars3.githubusercontent.com/u/22982031?v=4" width="100;" alt="Danotsonof"/>
             <br />
@@ -208,13 +215,6 @@
             <img src="https://avatars3.githubusercontent.com/u/47855729?v=4" width="100;" alt="vieee"/>
             <br />
             <sub><b>Deepak Yadav</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Lemorz56">
-            <img src="https://avatars1.githubusercontent.com/u/1346676?v=4" width="100;" alt="Lemorz56"/>
-            <br />
-            <sub><b>Sebastian Mossberg</b></sub>
         </a>
     </td></tr>
 </table>
