@@ -37,15 +37,15 @@
             <br />
             <sub><b>Ritwik Singh</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Srithanya">
             <img src="https://avatars2.githubusercontent.com/u/44163421?v=4" width="100;" alt="Srithanya"/>
             <br />
             <sub><b>Srithanya</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/anurag1299">
             <img src="https://avatars3.githubusercontent.com/u/52789951?v=4" width="100;" alt="anurag1299"/>
@@ -57,7 +57,7 @@
         <a href="https://github.com/falguni-k">
             <img src="https://avatars3.githubusercontent.com/u/49592710?v=4" width="100;" alt="falguni-k"/>
             <br />
-            <sub><b>falguni-k</b></sub>
+            <sub><b>Falguni-k</b></sub>
         </a>
     </td>
     <td align="center">
@@ -73,7 +73,8 @@
             <br />
             <sub><b>Harsh Chandravanshi</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Harshalszz">
             <img src="https://avatars3.githubusercontent.com/u/61976596?v=4" width="100;" alt="Harshalszz"/>
@@ -87,8 +88,7 @@
             <br />
             <sub><b>Rohit Sharma</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/siddharthgangwar25">
             <img src="https://avatars1.githubusercontent.com/u/63447050?v=4" width="100;" alt="siddharthgangwar25"/>
@@ -107,9 +107,10 @@
         <a href="https://github.com/jayaganeshkumar">
             <img src="https://avatars0.githubusercontent.com/u/56192588?v=4" width="100;" alt="jayaganeshkumar"/>
             <br />
-            <sub><b>jayaganeshkumar</b></sub>
+            <sub><b>Jayaganeshkumar</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/BrianAnakPintar">
             <img src="https://avatars2.githubusercontent.com/u/69195029?v=4" width="100;" alt="BrianAnakPintar"/>
@@ -118,20 +119,12 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/vieee">
-            <img src="https://avatars3.githubusercontent.com/u/47855729?v=4" width="100;" alt="vieee"/>
-            <br />
-            <sub><b>Deepak Yadav</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/PRATITICHANDA">
             <img src="https://avatars1.githubusercontent.com/u/55646786?v=4" width="100;" alt="PRATITICHANDA"/>
             <br />
             <sub><b>PRATITI CHANDA</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/SaloniK17">
             <img src="https://avatars3.githubusercontent.com/u/72257250?v=4" width="100;" alt="SaloniK17"/>
@@ -152,7 +145,8 @@
             <br />
             <sub><b>Shristi Singh</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/ShristiAgrawal">
             <img src="https://avatars0.githubusercontent.com/u/33164492?v=4" width="100;" alt="ShristiAgrawal"/>
@@ -173,8 +167,7 @@
             <br />
             <sub><b>Aditi014</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Amulya-coder">
             <img src="https://avatars0.githubusercontent.com/u/66437295?v=4" width="100;" alt="Amulya-coder"/>
@@ -188,7 +181,8 @@
             <br />
             <sub><b>Arihant Bansal</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Aryan-dev007">
             <img src="https://avatars2.githubusercontent.com/u/61882780?v=4" width="100;" alt="Aryan-dev007"/>
@@ -214,7 +208,14 @@
         <a href="https://github.com/debarshi-1999">
             <img src="https://avatars1.githubusercontent.com/u/66899563?v=4" width="100;" alt="debarshi-1999"/>
             <br />
-            <sub><b>debarshi-1999</b></sub>
+            <sub><b>Debarshi-1999</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/vieee">
+            <img src="https://avatars3.githubusercontent.com/u/47855729?v=4" width="100;" alt="vieee"/>
+            <br />
+            <sub><b>Deepak Yadav</b></sub>
         </a>
     </td></tr>
 </table>
