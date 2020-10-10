@@ -68,6 +68,13 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/AnkitaM84">
+            <img src="https://avatars0.githubusercontent.com/u/60255963?v=4" width="100;" alt="AnkitaM84"/>
+            <br />
+            <sub><b>AnkitaM84</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/Harshalszz">
             <img src="https://avatars3.githubusercontent.com/u/61976596?v=4" width="100;" alt="Harshalszz"/>
             <br />
@@ -80,15 +87,15 @@
             <br />
             <sub><b>Siddharth Gangwar</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/BraveeSnow">
             <img src="https://avatars0.githubusercontent.com/u/45154227?v=4" width="100;" alt="BraveeSnow"/>
             <br />
             <sub><b>David Long</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/jayaganeshkumar">
             <img src="https://avatars0.githubusercontent.com/u/56192588?v=4" width="100;" alt="jayaganeshkumar"/>
@@ -123,15 +130,15 @@
             <br />
             <sub><b>Shristi Singh</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/ShristiAgrawal">
             <img src="https://avatars0.githubusercontent.com/u/33164492?v=4" width="100;" alt="ShristiAgrawal"/>
             <br />
             <sub><b>ShristiAgrawal</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/asamant">
             <img src="https://avatars1.githubusercontent.com/u/43705966?v=4" width="100;" alt="asamant"/>
@@ -151,13 +158,6 @@
             <img src="https://avatars0.githubusercontent.com/u/66437295?v=4" width="100;" alt="Amulya-coder"/>
             <br />
             <sub><b>Amulya</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/AnkitaM84">
-            <img src="https://avatars0.githubusercontent.com/u/60255963?v=4" width="100;" alt="AnkitaM84"/>
-            <br />
-            <sub><b>AnkitaM84</b></sub>
         </a>
     </td>
     <td align="center">
