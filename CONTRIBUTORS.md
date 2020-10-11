@@ -25,20 +25,27 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/Siddhant-K-code">
+            <img src="https://avatars0.githubusercontent.com/u/55068936?v=4" width="100;" alt="Siddhant-K-code"/>
+            <br />
+            <sub><b>Siddhant Khare</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/sumasreeeduru">
             <img src="https://avatars1.githubusercontent.com/u/44165457?v=4" width="100;" alt="sumasreeeduru"/>
             <br />
             <sub><b>Eduru Sumasree</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/ritwiksingh21">
             <img src="https://avatars3.githubusercontent.com/u/46321538?v=4" width="100;" alt="ritwiksingh21"/>
             <br />
             <sub><b>Ritwik Singh</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Srithanya">
             <img src="https://avatars2.githubusercontent.com/u/44163421?v=4" width="100;" alt="Srithanya"/>
@@ -66,15 +73,15 @@
             <br />
             <sub><b>PrajaktaS23</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/harsh0620">
             <img src="https://avatars2.githubusercontent.com/u/57012784?v=4" width="100;" alt="harsh0620"/>
             <br />
             <sub><b>Harsh Chandravanshi</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Harshalszz">
             <img src="https://avatars3.githubusercontent.com/u/61976596?v=4" width="100;" alt="Harshalszz"/>
@@ -87,13 +94,6 @@
             <img src="https://avatars0.githubusercontent.com/u/65807152?v=4" width="100;" alt="Rohit-2602"/>
             <br />
             <sub><b>Rohit Sharma</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Siddhant-K-code">
-            <img src="https://avatars0.githubusercontent.com/u/55068936?v=4" width="100;" alt="Siddhant-K-code"/>
-            <br />
-            <sub><b>Siddhant Khare</b></sub>
         </a>
     </td>
     <td align="center">
