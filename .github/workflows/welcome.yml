@@ -11,18 +11,22 @@ jobs:
       - uses: bubkoo/welcome-action@v1
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          FIRST_ISSUE_REACTIONS: '+1, hooray, rocket, heart'
+          FIRST_PR_REACTIONS: '+1, hooray, rocket, heart'
+          FIRST_PR_MERGED_REACTIONS: '+1, hooray, rocket, heart'
           FIRST_ISSUE: >
-            👋 @${author}
+            👋 @{{ author }}
             
              Thanks for opening your first issue here! Be sure to follow the issue template!
-             
-             Regards @krishrahul98 :v:
+
+
+          FIRST_PR: >
+            👋 @{{ author }}
+            
+            Thanks for opening this pull request! Please check out our contributing guidelines.
 
 
           FIRST_PR_MERGED: >
-            🎉 @${author}
+            🎉 @{{ author }}
             
-            Congrats on merging your first pull request! Happy Contributing!
-            
-            Regards @krishrahul98 :v:
-
+            Congrats on merging your first pull request! We here at behaviorbot are proud of you!
