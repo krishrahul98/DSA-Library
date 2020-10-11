@@ -119,6 +119,13 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/avinashpai">
+            <img src="https://avatars1.githubusercontent.com/u/38055124?v=4" width="100;" alt="avinashpai"/>
+            <br />
+            <sub><b>Avinash Pai</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/BrianAnakPintar">
             <img src="https://avatars2.githubusercontent.com/u/69195029?v=4" width="100;" alt="BrianAnakPintar"/>
             <br />
@@ -138,15 +145,15 @@
             <br />
             <sub><b>PRATITI CHANDA</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/SaloniK17">
             <img src="https://avatars3.githubusercontent.com/u/72257250?v=4" width="100;" alt="SaloniK17"/>
             <br />
             <sub><b>SaloniK17</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/SanjayMarreddi">
             <img src="https://avatars0.githubusercontent.com/u/57671048?v=4" width="100;" alt="SanjayMarreddi"/>
@@ -174,15 +181,15 @@
             <br />
             <sub><b>Aniket Samant</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Aditi014">
             <img src="https://avatars0.githubusercontent.com/u/48182649?v=4" width="100;" alt="Aditi014"/>
             <br />
             <sub><b>Aditi014</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/Amulya-coder">
             <img src="https://avatars0.githubusercontent.com/u/66437295?v=4" width="100;" alt="Amulya-coder"/>
@@ -202,13 +209,6 @@
             <img src="https://avatars2.githubusercontent.com/u/61882780?v=4" width="100;" alt="Aryan-dev007"/>
             <br />
             <sub><b>Aryan</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/avinashpai">
-            <img src="https://avatars1.githubusercontent.com/u/38055124?v=4" width="100;" alt="avinashpai"/>
-            <br />
-            <sub><b>Avinash Pai</b></sub>
         </a>
     </td>
     <td align="center">
