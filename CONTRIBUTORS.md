@@ -90,6 +90,13 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/Siddhant-K-code">
+            <img src="https://avatars0.githubusercontent.com/u/55068936?v=4" width="100;" alt="Siddhant-K-code"/>
+            <br />
+            <sub><b>Siddhant Khare</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/siddharthgangwar25">
             <img src="https://avatars1.githubusercontent.com/u/63447050?v=4" width="100;" alt="siddharthgangwar25"/>
             <br />
@@ -102,15 +109,15 @@
             <br />
             <sub><b>David Long</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/jayaganeshkumar">
             <img src="https://avatars0.githubusercontent.com/u/56192588?v=4" width="100;" alt="jayaganeshkumar"/>
             <br />
             <sub><b>Jayaganeshkumar</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/BrianAnakPintar">
             <img src="https://avatars2.githubusercontent.com/u/69195029?v=4" width="100;" alt="BrianAnakPintar"/>
@@ -138,15 +145,15 @@
             <br />
             <sub><b>SaloniK17</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/SanjayMarreddi">
             <img src="https://avatars0.githubusercontent.com/u/57671048?v=4" width="100;" alt="SanjayMarreddi"/>
             <br />
             <sub><b>Sanjay Marreddi</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/confusedcoder1">
             <img src="https://avatars1.githubusercontent.com/u/55556359?v=4" width="100;" alt="confusedcoder1"/>
@@ -159,13 +166,6 @@
             <img src="https://avatars0.githubusercontent.com/u/33164492?v=4" width="100;" alt="ShristiAgrawal"/>
             <br />
             <sub><b>ShristiAgrawal</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Siddhant-K-code">
-            <img src="https://avatars0.githubusercontent.com/u/55068936?v=4" width="100;" alt="Siddhant-K-code"/>
-            <br />
-            <sub><b>Siddhant Khare</b></sub>
         </a>
     </td>
     <td align="center">
