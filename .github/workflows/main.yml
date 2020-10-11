@@ -1,17 +1,24 @@
-name: Add Contributors
-on: [push, pull_request]
+name: Add contributors
+on:
+  schedule:
+    - cron:  '20 20 * * *'
+  push:
+    branches:
+     - main
 
 jobs:
-    contrib-readme-job:
-        runs-on: ubuntu-latest
-        name: A job to automate contrib in readme
-        steps:
-            - name: Contribute List
-              uses: akhilmhdh/contributors-readme-action@v2.0.2
-              env:
-                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-              with: 
-                  readme_path: CONTRIBUTORS.md
-                  commit_message: new contributor added
-                  committer_username: github-actions
-                  columns_per_row: 5
+  add-contributors:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - uses: BobAnkh/add-contributors@master
+      with:
+        REPO_NAME: 'krishrahul98/DSA-Library'
+        CONTRIBUTOR: '### Contributors'
+        COLUMN_PER_ROW: '6'
+        ACCESS_TOKEN: ${{secrets.GITHUB_TOKEN}}
+        IMG_WIDTH: '100'
+        FONT_SIZE: '14'
+        PATH: '/CONTRIBUTORS.md'
+        COMMIT_MESSAGE: 'Update Contributors'
+        AVATAR_SHAPE: 'round'
