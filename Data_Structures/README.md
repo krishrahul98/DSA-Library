@@ -3,6 +3,8 @@
 **Array**
 -------------
 
+
+- [Largest Sum Contiguous Subarray](https://github.com/krishrahul98/DSA-Library/tree/main/Data_Structures/Array/Largest_Sum_Contiguous_Subarray)
 - [Search in Sorted and Rotated Array](https://github.com/krishrahul98/DSA-Library/tree/main/Data_Structures/Array/Rotated_Array_Search)
 - [Reverse Array](https://github.com/krishrahul98/DSA-Library/tree/main/Data_Structures/Array/Reverse_Array)
 - [Rotate Array](https://github.com/krishrahul98/DSA-Library/tree/main/Data_Structures/Array/Rotate_Array)
