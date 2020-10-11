@@ -17,6 +17,7 @@
 **Linked_List**
 ---------------
 
+- [Merge two sorted Linkedlist](https://github.com/krishrahul98/DSA-Library/tree/main/Data_Structures/LinkedList/Merge_two_sorted_lists)
 - [Reverse List](https://github.com/krishrahul98/DSA-Library/tree/main/Data_Structures/LinkedList/Reverse_List)
 - [Rotate List by K](https://github.com/krishrahul98/DSA-Library/tree/main/Data_Structures/LinkedList/Rotate_Linked_List)
 
