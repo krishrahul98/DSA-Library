@@ -162,6 +162,13 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/Siddhant-K-code">
+            <img src="https://avatars0.githubusercontent.com/u/55068936?v=4" width="100;" alt="Siddhant-K-code"/>
+            <br />
+            <sub><b>Siddhant Khare</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/asamant">
             <img src="https://avatars1.githubusercontent.com/u/43705966?v=4" width="100;" alt="asamant"/>
             <br />
@@ -174,15 +181,15 @@
             <br />
             <sub><b>Aditi014</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Amulya-coder">
             <img src="https://avatars0.githubusercontent.com/u/66437295?v=4" width="100;" alt="Amulya-coder"/>
             <br />
             <sub><b>Amulya</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/arihantbansal">
             <img src="https://avatars2.githubusercontent.com/u/17180950?v=4" width="100;" alt="arihantbansal"/>
@@ -209,13 +216,6 @@
             <img src="https://avatars1.githubusercontent.com/u/14069441?v=4" width="100;" alt="koshtaayush"/>
             <br />
             <sub><b>Ayush Koshta</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Danotsonof">
-            <img src="https://avatars3.githubusercontent.com/u/22982031?v=4" width="100;" alt="Danotsonof"/>
-            <br />
-            <sub><b>Daniel Otulagun</b></sub>
         </a>
     </td></tr>
 </table>
