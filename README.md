@@ -5,6 +5,7 @@
 ![GitHub closed issues](https://img.shields.io/github/issues-closed/krishrahul98/DSA-Library?style=flat-square)
 ![GitHub issues](https://img.shields.io/github/issues/krishrahul98/DSA-Library?style=flat-square)
 ![Lines of code](https://img.shields.io/tokei/lines/github/krishrahul98/DSA-Library?style=flat-square)
+[![CodeFactor](https://www.codefactor.io/repository/github/krishrahul98/dsa-library/badge)](https://www.codefactor.io/repository/github/krishrahul98/dsa-library)
 
 
 **Overview**
