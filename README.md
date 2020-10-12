@@ -31,6 +31,7 @@
 -----------
 - [Algorithms](https://github.com/krishrahul98/DSA-Library/tree/main/Algorithms)
 - [Data Structures](https://github.com/krishrahul98/DSA-Library/tree/main/Data_Structures)
+- [Project Euler](https://github.com/krishrahul98/DSA-Library/tree/main/Project_Euler)
 
 
 **Contribution Guidelines**
