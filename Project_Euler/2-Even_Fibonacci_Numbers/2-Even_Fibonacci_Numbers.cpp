@@ -14,7 +14,6 @@ int main()
         long long f = 1, s = 2, th;
         for (i = 0;; i++)
         {
-
             th = f + s;
             if (th > n)
             {
