@@ -1,4 +1,4 @@
-from math import *
+from math import sqrt,ceil
 
 def is_prime(x):
     if x == 2:
