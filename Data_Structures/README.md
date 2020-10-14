@@ -18,6 +18,7 @@
 ---------------
 
 - [Merge two sorted Linkedlist](https://github.com/krishrahul98/DSA-Library/tree/main/Data_Structures/LinkedList/Merge_two_sorted_lists)
+- [Middle of Linked List](https://github.com/krishrahul98/DSA-Library/tree/main/Data_Structures/LinkedList/Middle_Element_Linked_List)
 - [Reverse List](https://github.com/krishrahul98/DSA-Library/tree/main/Data_Structures/LinkedList/Reverse_List)
 - [Rotate List by K](https://github.com/krishrahul98/DSA-Library/tree/main/Data_Structures/LinkedList/Rotate_Linked_List)
 
@@ -26,6 +27,7 @@
 ------------
 
 - [Implementation from Scratch](https://github.com/krishrahul98/DSA-Library/tree/main/Data_Structures/Queue/Implementation)
+- [Implementation Using Linked List](https://github.com/krishrahul98/DSA-Library/tree/main/Data_Structures/Queue/Queue_Using_Linked_List)
 
 **Stack**
 -----------
