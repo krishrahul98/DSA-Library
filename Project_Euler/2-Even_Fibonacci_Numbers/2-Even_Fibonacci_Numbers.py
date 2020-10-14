@@ -1,6 +1,6 @@
-sum = 0 
-num1 = 0; 
-num2 = 1;  
+sum0 = 0 
+num1 = 0 
+num2 = 1  
  
 # While the second number is less than 4000000
 while num2 < 4e6:
@@ -9,7 +9,7 @@ while num2 < 4e6:
     num2 = num1 + temp
  
     if(num1%2 == 0):
-        sum += num1
+        sum0 += num1
  
 # Print results
-print('The sum is: ' + str(sum))
+print('The sum is: ' + str(sum0))
