@@ -1,5 +1,7 @@
 ## Contributing Guidelines
 
+![Add contributors](https://github.com/krishrahul98/DSA-Library/workflows/Add%20contributors/badge.svg)
+
 Here are some suggestions you should be following while contributing to this repository:
 
 
