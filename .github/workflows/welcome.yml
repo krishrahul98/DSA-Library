@@ -1,0 +1,16 @@
+name: Welcome
+on:
+  issues:
+    types: [opened]
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: bubkoo/welcome-action@v1
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          FIRST_ISSUE_REACTIONS: '+1, hooray, rocket, heart'
+          FIRST_ISSUE: >
+            👋 @{{ author }}
+            
+             Thanks for opening your first issue here! Be sure to follow the issue template!

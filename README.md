@@ -4,7 +4,8 @@
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/krishrahul98/DSA-Library?style=flat-square)
 ![GitHub closed issues](https://img.shields.io/github/issues-closed/krishrahul98/DSA-Library?style=flat-square)
 ![GitHub issues](https://img.shields.io/github/issues/krishrahul98/DSA-Library?style=flat-square)
-![GitHub language count](https://img.shields.io/github/languages/count/krishrahul98/DSA-Library?style=flat-square)
+![Lines of code](https://img.shields.io/tokei/lines/github/krishrahul98/DSA-Library?style=flat-square)
+[![CodeFactor](https://www.codefactor.io/repository/github/krishrahul98/dsa-library/badge)](https://www.codefactor.io/repository/github/krishrahul98/dsa-library)
 
 
 **Overview**
@@ -21,6 +22,18 @@
 - [x] Python
 - [x] JavaScript
 - [x] C#
+
+**Need Collaborators, If interested contact me**.
+
+**Show some love by leaving a :star2:** 
+
+
+**Index**
+-----------
+- [Algorithms](https://github.com/krishrahul98/DSA-Library/tree/main/Algorithms)
+- [Data Structures](https://github.com/krishrahul98/DSA-Library/tree/main/Data_Structures)
+- [Project Euler](https://github.com/krishrahul98/DSA-Library/tree/main/Project_Euler)
+
 
 **Contribution Guidelines**
 ------------------------------
@@ -65,7 +78,7 @@ $ git reset --hard upstream/master
 $ git push origin master
 
 ```
-## Contributors
+## Contributors 🎉
 
 Meet our wonderful [contributors](/CONTRIBUTORS.md).
 
