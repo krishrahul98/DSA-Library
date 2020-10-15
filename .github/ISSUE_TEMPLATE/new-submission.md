@@ -2,10 +2,11 @@
 name: New Submission
 about: Use this for adding new algorithms and data structures
 title: Issue Title
-labels: Hacktoberfest, C++, Java, JavaScript, Python, C#, php, C
+labels: C#, C++, Hacktoberfest, Java, JavaScript, Python, good first issue
 assignees: ''
 
 ---
+
 Add comment to get assigned to your desired language.
 Follow Submission directory Structure for PR merge.
 
