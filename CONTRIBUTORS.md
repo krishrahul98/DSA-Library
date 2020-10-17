@@ -135,6 +135,13 @@
 </tr>
 <tr>
     <td align="center">
+        <a href=https://github.com/avinashpai>
+            <img src=https://avatars1.githubusercontent.com/u/38055124?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Avinash Pai/>
+            <br />
+            <sub style="font-size:14px"><b>Avinash Pai</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href=https://github.com/Harshalszz>
             <img src=https://avatars3.githubusercontent.com/u/61976596?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Harshal S Zodape />
             <br />
@@ -156,12 +163,21 @@
         </a>
     </td>
     <td align="center">
+        <a href=https://github.com/Priyanshi-3>
+            <img src=https://avatars0.githubusercontent.com/u/47033587?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=binge/>
+            <br />
+            <sub style="font-size:14px"><b>binge</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href=https://github.com/BraveeSnow>
             <img src=https://avatars0.githubusercontent.com/u/45154227?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=David Long/>
             <br />
             <sub style="font-size:14px"><b>David Long</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center">
         <a href=https://github.com/jayaganeshkumar>
             <img src=https://avatars0.githubusercontent.com/u/56192588?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=jayaganeshkumar/>
@@ -176,8 +192,6 @@
             <sub style="font-size:14px"><b>Aaditree Jaisswal</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center">
         <a href=https://github.com/AayushTyagi1>
             <img src=https://avatars0.githubusercontent.com/u/42893909?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Aayush Tyagi/>
@@ -190,13 +204,6 @@
             <img src=https://avatars0.githubusercontent.com/u/62665287?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Abheetarora/>
             <br />
             <sub style="font-size:14px"><b>Abheetarora</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href=https://github.com/avinashpai>
-            <img src=https://avatars1.githubusercontent.com/u/38055124?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Avinash Pai/>
-            <br />
-            <sub style="font-size:14px"><b>Avinash Pai</b></sub>
         </a>
     </td>
     <td align="center">
@@ -213,6 +220,8 @@
             <sub style="font-size:14px"><b>BrianAnakPintar</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center">
         <a href=https://github.com/PRATITICHANDA>
             <img src=https://avatars1.githubusercontent.com/u/55646786?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=PRATITI CHANDA/>
@@ -220,8 +229,6 @@
             <sub style="font-size:14px"><b>PRATITI CHANDA</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center">
         <a href=https://github.com/SaloniK17>
             <img src=https://avatars3.githubusercontent.com/u/72257250?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=SaloniK17/>
@@ -257,6 +264,8 @@
             <sub style="font-size:14px"><b>Amulya</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center">
         <a href=https://github.com/arihantbansal>
             <img src=https://avatars2.githubusercontent.com/u/17180950?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Arihant Bansal/>
@@ -264,8 +273,6 @@
             <sub style="font-size:14px"><b>Arihant Bansal</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center">
         <a href=https://github.com/Aryan-dev007>
             <img src=https://avatars2.githubusercontent.com/u/61882780?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Aryan/>
@@ -301,6 +308,8 @@
             <sub style="font-size:14px"><b>lordinkavu</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center">
         <a href=https://github.com/Lemorz56>
             <img src=https://avatars1.githubusercontent.com/u/1346676?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Sebastian Mossberg/>
@@ -308,13 +317,18 @@
             <sub style="font-size:14px"><b>Sebastian Mossberg</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center">
         <a href=https://github.com/sanskriti0512>
             <img src=https://avatars0.githubusercontent.com/u/57553126?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=SANSKRITI SINGHAL/>
             <br />
             <sub style="font-size:14px"><b>SANSKRITI SINGHAL</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href=https://github.com/SashiPraba>
+            <img src=https://avatars3.githubusercontent.com/u/72875102?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=SashiPraba/>
+            <br />
+            <sub style="font-size:14px"><b>SashiPraba</b></sub>
         </a>
     </td>
     <td align="center">
@@ -338,6 +352,8 @@
             <sub style="font-size:14px"><b>ashima0699</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center">
         <a href=https://github.com/shin-iji>
             <img src=https://avatars0.githubusercontent.com/u/50923330?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Siradanai B./>
@@ -345,15 +361,6 @@
             <sub style="font-size:14px"><b>Siradanai B.</b></sub>
         </a>
     </td>
-    <td align="center">
-        <a href=https://github.com/Priyanshi-3>
-            <img src=https://avatars0.githubusercontent.com/u/47033587?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=binge/>
-            <br />
-            <sub style="font-size:14px"><b>binge</b></sub>
-        </a>
-    </td>
-</tr>
-<tr>
     <td align="center">
         <a href=https://github.com/meghanagottapu>
             <img src=https://avatars0.githubusercontent.com/u/43183125?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=meghana gottapu/>
