@@ -10,6 +10,7 @@ Example Output:
 
 */
 using System;
+using System.Linq;
 
 namespace BubbleSort
 {
@@ -33,7 +34,8 @@ namespace BubbleSort
             Random rand = new Random();
 
             // create an array with a random number of elements between 10 and 20.
-            int[] array = new int[rand.Next(10, 20)];
+            // fill the array with randomly generated values between -5 and 50.
+            int[] array = Enumerable.Range(-5,50).OrderBy(r => rand.NextDouble()).Take(rand.Next(10, 20)).ToArray<int>();
 
             // fill the array with randomly generated values between -15 and 15.
             for (int i = 0; i < array.Length; i++) array[i] = rand.Next(-15, 15);
