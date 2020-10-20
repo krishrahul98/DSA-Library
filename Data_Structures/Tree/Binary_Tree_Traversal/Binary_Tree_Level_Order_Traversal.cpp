@@ -62,7 +62,6 @@ Node* newNode(int data)
 // Driver program to test above functions 
 int main() 
 { 
-	
 	Node *root = newNode(1); 
 	root->left = newNode(2); 
 	root->right = newNode(3); 
