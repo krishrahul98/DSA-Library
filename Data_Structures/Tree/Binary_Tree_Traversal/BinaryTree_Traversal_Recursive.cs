@@ -1,4 +1,4 @@
-class Node
+public class Node
     {
         public int item;
         public Node left;
@@ -10,7 +10,7 @@ class Node
             Console.Write("]");
         }
     }
-    class Tree
+    public class Tree
     {
         public Node root;
         public Tree()
@@ -83,7 +83,7 @@ class Node
             }
         }
     }
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
