@@ -1,4 +1,4 @@
-public class Node
+public partial class Node
     {
         public int item;
         public Node left;
@@ -10,7 +10,7 @@ public class Node
             Console.Write("]");
         }
     }
-    public class Tree
+    public partial class Tree
     {
         public Node root;
         public Tree()
@@ -83,7 +83,7 @@ public class Node
             }
         }
     }
-    public class Program
+    public partial class Program
     {
         static void Main(string[] args)
         {
