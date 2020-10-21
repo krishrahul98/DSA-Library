@@ -36,7 +36,6 @@ Current Tree:
 using System;
 using System.Collections.Generic;
 
-
 namespace BST
 {
     public class Node
@@ -172,7 +171,6 @@ namespace BST
             return current;
         }
 
-
         /// <summary>
         /// Public function used to invoke Print action for the tree.
         /// </summary>
@@ -291,8 +289,8 @@ namespace BST
                     string f = line[j];
                     if(f == null) f = "";
 
-                    int gap1 = (int) Math.Ceiling(perpiece/2f - f.Length / 2f);
-                    int gap2 = (int) Math.Floor(perpiece / 2f - f.Length / 2f);
+                    int gap1 = (int) Math.Ceiling((perpiece/2f) - (f.Length/2f));
+                    int gap2 = (int) Math.Floor((perpiece/2f) - (f.Length/2f));
 
                     // a number
                     for (int k = 0; k < gap1; k++) {
