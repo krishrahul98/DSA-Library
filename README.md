@@ -1,9 +1,9 @@
 # DSA-Library
 
-![GitHub pull requests](https://img.shields.io/github/issues-pr/krishrahul98/DSA-Library?style=flat-square) 
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/krishrahul98/DSA-Library?style=flat-square)
-![GitHub closed issues](https://img.shields.io/github/issues-closed/krishrahul98/DSA-Library?style=flat-square)
-![GitHub issues](https://img.shields.io/github/issues/krishrahul98/DSA-Library?style=flat-square)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/krishrahul98/DSA-Library?style=flat-square)](https://github.com/krishrahul98/DSA-Library/pulls?q=is%3Aopen+is%3Apr)
+[![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/krishrahul98/DSA-Library?style=flat-square)](https://github.com/krishrahul98/DSA-Library/pulls?q=is%3Apr+is%3Aclosed)
+[![GitHub closed issues](https://img.shields.io/github/issues-closed/krishrahul98/DSA-Library?style=flat-square)](https://github.com/krishrahul98/DSA-Library/issues?q=is%3Aissue+is%3Aclosed)
+[![GitHub issues](https://img.shields.io/github/issues/krishrahul98/DSA-Library?style=flat-square)](https://github.com/krishrahul98/DSA-Library/issues?q=is%3Aopen+is%3Aissue)
 ![Lines of code](https://img.shields.io/tokei/lines/github/krishrahul98/DSA-Library?style=flat-square)
 [![CodeFactor](https://www.codefactor.io/repository/github/krishrahul98/dsa-library/badge)](https://www.codefactor.io/repository/github/krishrahul98/dsa-library)
 
