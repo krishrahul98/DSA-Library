@@ -1,7 +1,6 @@
 using System;
 class Merge_Sort
 {
-
     // Merges two subarrays of []array.
     // First subarray is array[leftLimit..mid]
     // Second subarray is array[mid+1..rightLimit]
