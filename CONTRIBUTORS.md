@@ -223,6 +223,13 @@
 </tr>
 <tr>
     <td align="center">
+        <a href=https://github.com/Ashutoshnegi880>
+            <img src=https://avatars3.githubusercontent.com/u/68495328?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Ashutoshnegi880/>
+            <br />
+            <sub style="font-size:14px"><b>Ashutoshnegi880</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href=https://github.com/koshtaayush>
             <img src=https://avatars1.githubusercontent.com/u/14069441?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Ayush Koshta/>
             <br />
@@ -257,6 +264,8 @@
             <sub style="font-size:14px"><b>Shristi Singh</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center">
         <a href=https://github.com/ShristiAgrawal>
             <img src=https://avatars0.githubusercontent.com/u/33164492?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=ShristiAgrawal/>
@@ -264,8 +273,6 @@
             <sub style="font-size:14px"><b>ShristiAgrawal</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center">
         <a href=https://github.com/jzhengcode>
             <img src=https://avatars2.githubusercontent.com/u/36715889?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Janet Zheng/>
@@ -299,13 +306,6 @@
             <img src=https://avatars2.githubusercontent.com/u/61882780?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Aryan/>
             <br />
             <sub style="font-size:14px"><b>Aryan</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href=https://github.com/Ashutoshnegi880>
-            <img src=https://avatars3.githubusercontent.com/u/68495328?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Ashutoshnegi880/>
-            <br />
-            <sub style="font-size:14px"><b>Ashutoshnegi880</b></sub>
         </a>
     </td>
 </tr>
