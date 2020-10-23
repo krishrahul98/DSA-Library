@@ -24,6 +24,13 @@
         </a>
     </td>
     <td align="center">
+        <a href=https://github.com/vieee>
+            <img src=https://avatars3.githubusercontent.com/u/47855729?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Deepak Yadav/>
+            <br />
+            <sub style="font-size:14px"><b>Deepak Yadav</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href=https://github.com/therc01>
             <img src=https://avatars0.githubusercontent.com/u/66589195?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Rahul Chauhan/>
             <br />
@@ -35,13 +42,6 @@
             <img src=https://avatars3.githubusercontent.com/u/37401658?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Shail Shah/>
             <br />
             <sub style="font-size:14px"><b>Shail Shah</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href=https://github.com/vieee>
-            <img src=https://avatars3.githubusercontent.com/u/47855729?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Deepak Yadav/>
-            <br />
-            <sub style="font-size:14px"><b>Deepak Yadav</b></sub>
         </a>
     </td>
 </tr>
