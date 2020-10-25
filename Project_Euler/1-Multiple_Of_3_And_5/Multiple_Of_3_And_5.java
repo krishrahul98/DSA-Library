@@ -1,5 +1,5 @@
 import java.io.*;
-class hq1
+class Multiple_Of_3_And_5
 {
     public static void main(String[] args)throws IOException
     {
