@@ -61,6 +61,13 @@
         </a>
     </td>
     <td align="center">
+        <a href=https://github.com/Priyanshi-3>
+            <img src=https://avatars0.githubusercontent.com/u/47033587?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=binge/>
+            <br />
+            <sub style="font-size:14px"><b>binge</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href=https://github.com/Dwarikanathmishra>
             <img src=https://avatars2.githubusercontent.com/u/53937066?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Dwarikanath Mishra/>
             <br />
@@ -81,6 +88,8 @@
             <sub style="font-size:14px"><b>Aniket Samant</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center">
         <a href=https://github.com/SanjayMarreddi>
             <img src=https://avatars0.githubusercontent.com/u/57671048?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Sanjay Marreddi/>
@@ -88,8 +97,6 @@
             <sub style="font-size:14px"><b>Sanjay Marreddi</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center">
         <a href=https://github.com/sumasreeeduru>
             <img src=https://avatars1.githubusercontent.com/u/44165457?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Eduru Sumasree/>
@@ -125,6 +132,8 @@
             <sub style="font-size:14px"><b>falguni-k</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center">
         <a href=https://github.com/garg-saurav>
             <img src=https://avatars3.githubusercontent.com/u/50629066?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Saurav Garg/>
@@ -132,8 +141,6 @@
             <sub style="font-size:14px"><b>Saurav Garg</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center">
         <a href=https://github.com/PrajaktaS23>
             <img src=https://avatars3.githubusercontent.com/u/59256661?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=PrajaktaS23/>
@@ -169,6 +176,8 @@
             <sub style="font-size:14px"><b>Harshal S Zodape </b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center">
         <a href=https://github.com/Rohit-2602>
             <img src=https://avatars0.githubusercontent.com/u/65807152?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Rohit Sharma/>
@@ -176,20 +185,11 @@
             <sub style="font-size:14px"><b>Rohit Sharma</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center">
         <a href=https://github.com/siddharthgangwar25>
             <img src=https://avatars1.githubusercontent.com/u/63447050?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Siddharth Gangwar/>
             <br />
             <sub style="font-size:14px"><b>Siddharth Gangwar</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href=https://github.com/Priyanshi-3>
-            <img src=https://avatars0.githubusercontent.com/u/47033587?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=binge/>
-            <br />
-            <sub style="font-size:14px"><b>binge</b></sub>
         </a>
     </td>
     <td align="center">
