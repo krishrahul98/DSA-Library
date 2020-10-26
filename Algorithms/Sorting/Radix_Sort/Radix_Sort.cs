@@ -25,7 +25,6 @@ namespace Sort
 {
     class Sort
     {
-
         public static void RadixSort(int[] array)
         {
             int length = array.Length;
