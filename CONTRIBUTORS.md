@@ -31,12 +31,21 @@
         </a>
     </td>
     <td align="center">
+        <a href=https://github.com/nzubair>
+            <img src=https://avatars2.githubusercontent.com/u/7343812?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Nasir Zubair/>
+            <br />
+            <sub style="font-size:14px"><b>Nasir Zubair</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href=https://github.com/therc01>
             <img src=https://avatars0.githubusercontent.com/u/66589195?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Rahul Chauhan/>
             <br />
             <sub style="font-size:14px"><b>Rahul Chauhan</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center">
         <a href=https://github.com/shailshah76>
             <img src=https://avatars3.githubusercontent.com/u/37401658?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Shail Shah/>
@@ -44,20 +53,11 @@
             <sub style="font-size:14px"><b>Shail Shah</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center">
         <a href=https://github.com/MayThirtyOne>
             <img src=https://avatars1.githubusercontent.com/u/38375226?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Vijay />
             <br />
             <sub style="font-size:14px"><b>Vijay </b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href=https://github.com/nzubair>
-            <img src=https://avatars2.githubusercontent.com/u/7343812?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Nasir Zubair/>
-            <br />
-            <sub style="font-size:14px"><b>Nasir Zubair</b></sub>
         </a>
     </td>
     <td align="center">
