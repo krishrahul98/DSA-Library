@@ -1,7 +1,6 @@
-﻿
 class Inversion_Count
 {
-    public static int invertionCount(int[] input)
+    public static int inversionCount(int[] input)
     {
         var count = 0;
 
