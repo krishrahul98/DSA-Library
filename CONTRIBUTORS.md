@@ -68,6 +68,13 @@
         </a>
     </td>
     <td align="center">
+        <a href=https://github.com/Rudra-Patil>
+            <img src=https://avatars0.githubusercontent.com/u/42993095?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Rudra Patil/>
+            <br />
+            <sub style="font-size:14px"><b>Rudra Patil</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href=https://github.com/Priyanshi-3>
             <img src=https://avatars0.githubusercontent.com/u/47033587?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=binge/>
             <br />
@@ -81,6 +88,8 @@
             <sub style="font-size:14px"><b>Dwarikanath Mishra</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center">
         <a href=https://github.com/AnkitaM84>
             <img src=https://avatars0.githubusercontent.com/u/60255963?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=AnkitaM84/>
@@ -88,13 +97,18 @@
             <sub style="font-size:14px"><b>AnkitaM84</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center">
         <a href=https://github.com/asamant>
             <img src=https://avatars1.githubusercontent.com/u/43705966?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Aniket Samant/>
             <br />
             <sub style="font-size:14px"><b>Aniket Samant</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href=https://github.com/BraveeSnow>
+            <img src=https://avatars0.githubusercontent.com/u/45154227?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=David Long/>
+            <br />
+            <sub style="font-size:14px"><b>David Long</b></sub>
         </a>
     </td>
     <td align="center">
@@ -118,6 +132,8 @@
             <sub style="font-size:14px"><b>Eduru Sumasree</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center">
         <a href=https://github.com/Radhamohan2>
             <img src=https://avatars0.githubusercontent.com/u/50313344?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Radha Mohan/>
@@ -132,8 +148,6 @@
             <sub style="font-size:14px"><b>Ritwik Singh</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center">
         <a href=https://github.com/Srithanya>
             <img src=https://avatars2.githubusercontent.com/u/44163421?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Srithanya/>
@@ -162,6 +176,8 @@
             <sub style="font-size:14px"><b>Saurav Garg</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center">
         <a href=https://github.com/PrajaktaS23>
             <img src=https://avatars3.githubusercontent.com/u/59256661?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=PrajaktaS23/>
@@ -174,15 +190,6 @@
             <img src=https://avatars3.githubusercontent.com/u/60282597?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=verma-shivani/>
             <br />
             <sub style="font-size:14px"><b>verma-shivani</b></sub>
-        </a>
-    </td>
-</tr>
-<tr>
-    <td align="center">
-        <a href=https://github.com/BraveeSnow>
-            <img src=https://avatars0.githubusercontent.com/u/45154227?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=David Long/>
-            <br />
-            <sub style="font-size:14px"><b>David Long</b></sub>
         </a>
     </td>
     <td align="center">
@@ -211,13 +218,6 @@
             <img src=https://avatars0.githubusercontent.com/u/65807152?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Rohit Sharma/>
             <br />
             <sub style="font-size:14px"><b>Rohit Sharma</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href=https://github.com/Rudra-Patil>
-            <img src=https://avatars0.githubusercontent.com/u/42993095?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Rudra Patil/>
-            <br />
-            <sub style="font-size:14px"><b>Rudra Patil</b></sub>
         </a>
     </td>
 </tr>
@@ -478,14 +478,21 @@
         </a>
     </td>
     <td align="center">
+        <a href=https://github.com/Nitish-web-nik>
+            <img src=https://avatars3.githubusercontent.com/u/57797801?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=nitish_web_nik/>
+            <br />
+            <sub style="font-size:14px"><b>nitish_web_nik</b></sub>
+        </a>
+    </td>
+</tr>
+<tr>
+    <td align="center">
         <a href=https://github.com/suprimnakarmi>
             <img src=https://avatars0.githubusercontent.com/u/54857456?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Suprim Nakarmi/>
             <br />
             <sub style="font-size:14px"><b>Suprim Nakarmi</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center">
         <a href=https://github.com/vinayakkokane>
             <img src=https://avatars3.githubusercontent.com/u/51049381?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=vinayakkokane/>
