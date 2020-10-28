@@ -39,7 +39,7 @@ function longestCommonSubsequence(string1, string2) {
     }
     string = substring.join('');
     return {string: string, length: string.length}
-};
+}
 
 function main(string1, string2) {
     const answer = longestCommonSubsequence(string1, string2);
