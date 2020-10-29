@@ -1,32 +1,33 @@
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
 import math
 
 
-def jumpSearch(lst, x):
-
+def jump_search(array, search_element):
     # Get The Jump Value
 
-    jump = math.sqrt(len(lst))
-    currentPart = 0
+    jump = math.sqrt(len(array))
+    current_part = 0
 
     # Get Which Part Of The Jumps x is
 
-    while lst[int(min(jump, len(lst)) - 1)] < x:
-        currentPart = jump
-        jump += math.sqrt(len(lst))
+    while array[int(min(jump, len(array)) - 1)] < search_element:
+        current_part = jump
+        jump += math.sqrt(len(array))
 
         # Return -1 because x is bigger than any one the list
 
-        if currentPart >= len(lst):
+        if current_part >= len(array):
             return -1
 
     # Linear Search At The Part Of Jump
 
-    for i in range(int(currentPart), int(currentPart) + int(jump), 1):
-        if lst[i] == x:
-            return x
-        if currentPart == min(jump, len(lst)):
+    jump = int(jump)
+    current_part = int(current_part)
+    final_part = current_part+jump
+
+    for i in range(current_part, final_part):
+        if array[i] == search_element:
+            return i
+        if current_part == min(jump, len(array)):
             return -1
 
 
@@ -38,22 +39,17 @@ lst = [
     3,
     5,
     6,
-    7,
-    8,
-    9,
-    10,
-    11,
     12,
     13,
     15,
     16,
     19,
-    213,
-    ]
-print 'Number to Search: '
+    213
+]
+print('Number to Search: ')
 x = int(input())
-ans = jumpSearch(lst, x)
+ans = jump_search(lst, x)
 
-# Prints x if there is a result, and -1 if theres none
+# Prints pos if there is a result, and -1 if theres none
 
-print ans
+print(ans)
