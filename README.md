@@ -11,9 +11,23 @@
 **Overview**
 ------------------------------
 
-- The goal of this project is to have codes for various data structures and algorithms.
+- The goal of this project is to maintain a codebase for various Data Structures and Algorithms.
 - Feel free to contribute in any way you want.
-- Make sure to follow the contribution guidelines listed below.
+- Please Make sure that you follow the contribution guidelines listed below.
+
+**Contribution Guidelines**
+------------------------------
+- Plagiarism will not be entertained. Any PR that is found to be suspicious of plagiarised work will not be merged.
+
+- Issues will be assigned on a first come, first serve basis. The person who creates the issue gets the first priority. And then, issues are assigned based on who   commented first. You just have to comment on the issue, asking to be assigned and the programming language you should be assigned in, and it will be done if found fit.
+
+- You cannot work on any issue that is not assigned to you. Only when you have been assigned, you can start working on it and raise a PR for the same.
+
+- If you have anything else to be said about this repository, feel free to create an issue regarding it.
+
+**Need Collaborators, If interested contact me**.
+
+**Show some love by leaving a :star2:** 
 
 **Language available**
 - [x] C
@@ -23,26 +37,12 @@
 - [x] JavaScript
 - [x] C#
 
-**Need Collaborators, If interested contact me**.
-
-**Show some love by leaving a :star2:** 
-
-
 **Index**
 -----------
 - [Algorithms](https://github.com/krishrahul98/DSA-Library/tree/main/Algorithms)
 - [Data Structures](https://github.com/krishrahul98/DSA-Library/tree/main/Data_Structures)
 - [Project Euler](https://github.com/krishrahul98/DSA-Library/tree/main/Project_Euler)
 
-
-**Contribution Guidelines**
-------------------------------
-
-- Issues will be assigned on a first come, first serve basis. The person who creates the issue gets the first priority. And then, issues are assigned based on who   commented first. You just have to comment on the issue, asking to be assigned and the programming language you should be assigned in, and it will be done if found fit.
-
-- You cannot work on any issue that is not assigned to you.
-
-- If you have anything else in mind, FEEL FREE TO CREATE AN ISSUE and please wait for it to be assigned to you. If assigned to you, then you can start working on it and create a PR.
 
 **Steps to contribute**
 -----------------------------
