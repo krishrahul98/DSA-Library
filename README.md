@@ -78,6 +78,11 @@ $ git reset --hard upstream/master
 $ git push origin master
 
 ```
+
+## Collaborator
+
+**[Hemanth Kotagiri](https://github.com/hemanth-kotagiri)**
+
 ## Contributors 🎉
 
 Meet our wonderful [contributors](/CONTRIBUTORS.md).
