@@ -49,5 +49,5 @@ function calculate(){
 
   //This is to print the answer on the console.
   console.log(answer);
-};
+}
   
