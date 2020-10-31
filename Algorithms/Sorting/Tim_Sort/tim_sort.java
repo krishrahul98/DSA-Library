@@ -1,4 +1,5 @@
 import java.lang.Math;
+import java.util.Random;
 
 class TimSort {
     int array[];
@@ -8,6 +9,29 @@ class TimSort {
     public TimSort(int[] array) {
         this.array = array;
         this.array_length = array.length;
+    }
+
+    public TimSort(int array_length) {
+        Random rand = new Random();
+
+        this.array_length = array_length;
+        this.array = new int[this.array_length];
+
+        for (int i = 0; i < this.array_length; i++) {
+            int random_number = rand.nextInt(1000);
+            this.array[i] = random_number;
+        }
+    }
+
+    public TimSort() {
+        this.array_length = 100;
+        this.array = new int[this.array_length];
+
+        Random rand = new Random();
+        for (int i = 0; i < this.array_length; i++) {
+            int random_number = rand.nextInt(1000);
+            this.array[i] = random_number;
+        }
     }
 
     public void insertion_sort(int[] array, int start_idx, int end_idx) {
@@ -66,6 +90,7 @@ class TimSort {
         // Before Sorting
         System.out.println("Before sorting the array: ");
         this.showArrayElements();
+        System.out.println();
 
         // Applying insertion sort on RUNS.
         for (int i = 0; i < this.array_length; i += this.RUN)
@@ -82,6 +107,7 @@ class TimSort {
         // After sorting
         System.out.println("After sorting the array: ");
         this.showArrayElements();
+        System.out.println();
     }
 
     public void showArrayElements() {
@@ -101,5 +127,15 @@ class Main {
 
         TimSort obj = new TimSort(array);
         obj.algorithm();
+
+        // Specifying the size of the array and let the constructor initialize a random
+        // array.
+        TimSort obj2 = new TimSort(50);
+        obj2.algorithm();
+
+        // Specifying nothing so that the constructor will initialize a random array
+        TimSort obj3 = new TimSort();
+        obj3.algorithm();
+
     }
 }
