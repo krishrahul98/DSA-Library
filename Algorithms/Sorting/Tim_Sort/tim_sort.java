@@ -23,6 +23,10 @@ class TimSort {
         }
     }
 
+    public void change_run(int run) {
+        this.RUN = run;
+    }
+
     public TimSort() {
         this.array_length = 100;
         this.array = new int[this.array_length];
@@ -120,6 +124,8 @@ class TimSort {
 
 class Main {
     public static void main(String[] args) {
+
+        // Demonstrating the three ways of invoking the algorithm.
 
         int array[] = { 130, 473, 267, 3, 540, 406, 994, 750, 569, 107, 501, 490, 781, 232, 245, 964, 458, 841, 826,
                 110, 511, 994, 235, 27, 189, 112, 284, 832, 743, 903, 880, 379, 704, 159, 91, 782, 45, 810, 554, 32,
