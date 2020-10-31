@@ -2,7 +2,6 @@
 #define RUN 32
 
 void insertion_sort(int array[], int start_idx, int end_idx) {
-
     for(int i = start_idx; i <= end_idx; i++) {
         int currentElement = array[i];
         int j = i - 1;
@@ -15,7 +14,6 @@ void insertion_sort(int array[], int start_idx, int end_idx) {
 }
 
 void merge_runs(int array[], int start, int mid, int end) {  
-
     int first_array_size = mid - start + 1, second_array_size = end - mid;  
     int array1[first_array_size], array2[second_array_size];  
     int i = 0, j = 0, k = 0;
@@ -73,7 +71,6 @@ void algorithm(int arr[], int array_size) {
 }
 
 int main() {
-
 int array[] = {130, 473, 267, 3, 540, 406, 994, 750, 569, 107, 501, 490, 781, 232, 245, 964, 458, 841, 826, 110, 511, 994, 235, 27, 189, 112, 284, 832, 743, 903, 880, 379, 704, 159, 91, 782, 45, 810, 554
     , 32, 886, 784, 415, 22, 255, 50, 232, 151, 436, 169, 771, 458, 950, 974, 342, 972, 534, 383, 148, 988};
 
