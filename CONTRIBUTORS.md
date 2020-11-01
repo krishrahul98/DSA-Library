@@ -10,6 +10,13 @@
         </a>
     </td>
     <td align="center">
+        <a href=https://github.com/hemanth-kotagiri>
+            <img src=https://avatars2.githubusercontent.com/u/24365579?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Hemanth Kotagiri/>
+            <br />
+            <sub style="font-size:14px"><b>Hemanth Kotagiri</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href=https://github.com/Siddhant-K-code>
             <img src=https://avatars0.githubusercontent.com/u/55068936?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Siddhant Khare/>
             <br />
@@ -37,6 +44,8 @@
             <sub style="font-size:14px"><b>Neha2827</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center">
         <a href=https://github.com/nzubair>
             <img src=https://avatars2.githubusercontent.com/u/7343812?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Nasir Zubair/>
@@ -44,8 +53,6 @@
             <sub style="font-size:14px"><b>Nasir Zubair</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center">
         <a href=https://github.com/therc01>
             <img src=https://avatars0.githubusercontent.com/u/66589195?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Rahul Chauhan/>
@@ -65,13 +72,6 @@
             <img src=https://avatars1.githubusercontent.com/u/38375226?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Vijay />
             <br />
             <sub style="font-size:14px"><b>Vijay </b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href=https://github.com/hemanth-kotagiri>
-            <img src=https://avatars2.githubusercontent.com/u/24365579?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Hemanth Kotagiri/>
-            <br />
-            <sub style="font-size:14px"><b>Hemanth Kotagiri</b></sub>
         </a>
     </td>
     <td align="center">
