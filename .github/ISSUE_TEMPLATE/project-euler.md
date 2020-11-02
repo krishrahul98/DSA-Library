@@ -2,7 +2,7 @@
 name: Project Euler
 about: Use this template to add Project Euler issue
 title: Add Problem Name and Problem Number
-labels: C#, C++, Hacktoberfest, Java, JavaScript, Python, good first issue
+labels: C#, C++, Java, JavaScript, Python, good first issue
 assignees: ''
 
 ---
