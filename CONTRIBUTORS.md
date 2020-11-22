@@ -120,9 +120,9 @@
     </td>
     <td align="center">
         <a href=https://github.com/BraveeSnow>
-            <img src=https://avatars0.githubusercontent.com/u/45154227?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=David Long/>
+            <img src=https://avatars0.githubusercontent.com/u/45154227?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=BraveeSnow/>
             <br />
-            <sub style="font-size:14px"><b>David Long</b></sub>
+            <sub style="font-size:14px"><b>BraveeSnow</b></sub>
         </a>
     </td>
     <td align="center">
