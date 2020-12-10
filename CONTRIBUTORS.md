@@ -458,9 +458,9 @@
     </td>
     <td align="center">
         <a href=https://github.com/Lemorz56>
-            <img src=https://avatars1.githubusercontent.com/u/1346676?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Sebastian Mossberg/>
+            <img src=https://avatars1.githubusercontent.com/u/1346676?v=4 width="100;" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;" alt=Sebastian/>
             <br />
-            <sub style="font-size:14px"><b>Sebastian Mossberg</b></sub>
+            <sub style="font-size:14px"><b>Sebastian</b></sub>
         </a>
     </td>
     <td align="center">
