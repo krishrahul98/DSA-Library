@@ -39,7 +39,7 @@ class TimSort {
     }
 
     public void insertion_sort(int[] array, int start_idx, int end_idx) {
-        for (int i = 0; i < array.length; i++) {
+        for (int i = start_idx; i < end_idx; i++) {
             int current_element = array[i];
             int j = i - 1;
             while (j >= 0 && array[j] > current_element) {
@@ -98,12 +98,12 @@ class TimSort {
 
         // Applying insertion sort on RUNS.
         for (int i = 0; i < this.array_length; i += this.RUN)
-            this.insertion_sort(this.array, i, Math.min(i + this.RUN, (this.array_length - 1)));
+            this.insertion_sort(this.array, i, Math.min(i + this.RUN, (this.array_length)));
 
         for (int split = this.RUN; split < this.array_length; split = 2 * split) {
             for (int start_idx = 0; start_idx < this.array_length; start_idx += 2 * split) {
-                int mid = start_idx + split - 1;
                 int end_idx = Math.min((start_idx + 2 * split - 1), (this.array_length - 1));
+                int mid = Math.min(start_idx + split - 1, (int)Math.floor(start_idx + end_idx)/2);
 
                 this.merge_runs(this.array, start_idx, mid, end_idx);
             }
