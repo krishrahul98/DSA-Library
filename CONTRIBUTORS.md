@@ -420,7 +420,7 @@
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/Aryan-dev007>
+        <a href=https://github.com/aa-ryan>
             <img src=https://avatars.githubusercontent.com/u/61882780?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Aryan/>
             <br />
             <sub style="font-size:14px"><b>Aryan</b></sub>
@@ -539,9 +539,9 @@
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/sourabhjain9887>
-            <img src=https://avatars.githubusercontent.com/u/37382222?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=sourabh jain/>
+            <img src=https://avatars.githubusercontent.com/u/37382222?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Sourabh Jain/>
             <br />
-            <sub style="font-size:14px"><b>sourabh jain</b></sub>
+            <sub style="font-size:14px"><b>Sourabh Jain</b></sub>
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
