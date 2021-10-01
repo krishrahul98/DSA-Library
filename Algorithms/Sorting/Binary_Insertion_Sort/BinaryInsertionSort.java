@@ -1,5 +1,3 @@
-package com.company;
-
 import java.util.Arrays;
 import java.util.Scanner;
 
@@ -16,6 +14,7 @@ public class BinaryInsertionSort {
             for(int i = 0; i < n; ++i){
                 Arr[i] = inp.nextInt();
             }
+            inp.close();
 
             insertionSort(Arr, n);
 
