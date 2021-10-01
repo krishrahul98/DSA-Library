@@ -73,9 +73,9 @@ $ git push -u origin Branch_Name
 
 ```sh
 $ git fetch --all --prune
-$ git checkout master
-$ git reset --hard upstream/master
-$ git push origin master
+$ git checkout main
+$ git reset --hard upstream/main
+$ git push origin main
 
 ```
 
