@@ -10,6 +10,9 @@ class SeperateChaining {
         for(int i=0; i<SIZE; i++){
             hash_table[i] = null;
         }
+        // Used to clear the screen
+        System.out.print("\033[H\033[2J");  
+        System.out.flush();  
         while(true){
             for(int i=0; i<SIZE; i++){
                 Node current = hash_table[i];
@@ -35,9 +38,6 @@ class SeperateChaining {
                 }
                 last.next = newNode;
             }
-            // Used to clear the screen
-            System.out.print("\033[H\033[2J");  
-            System.out.flush();  
         }
         scn.close();
     }
