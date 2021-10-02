@@ -37,3 +37,7 @@ function binaryInsertionSort(array) {
     }
     return arr;
 }
+
+const array = [24, 64, 20, 88, 33, 84, 47, 81, 12, 91]
+const sortedArray = binaryInsertionSort(array)
+console.log(sortedArray);
