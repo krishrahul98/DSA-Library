@@ -4,15 +4,13 @@ def binary_search(given_array, key, start, end):
     if end - start <= 1:
         if key < given_array[start]:
             return start - 1
-        else:
-            return start
+        return start
     mid = (start + end) // 2
     if given_array[mid] < key:
         return binary_search(given_array, key, mid, end)
-    elif given_array[mid] > key:
+    if given_array[mid] > key:
         return binary_search(given_array, key, start, mid)
-    else:
-        return mid
+    return mid
 
 
 def insertion_sort(given_array):
