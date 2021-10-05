@@ -68,6 +68,13 @@
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/OussamaSALAHOUELHADJ>
+            <img src=https://avatars.githubusercontent.com/u/55297866?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Oussama SALAHOUELHADJ/>
+            <br />
+            <sub style="font-size:14px"><b>Oussama SALAHOUELHADJ</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/MayThirtyOne>
             <img src=https://avatars.githubusercontent.com/u/38375226?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Vijay />
             <br />
@@ -81,6 +88,8 @@
             <sub style="font-size:14px"><b>Rudra Patil</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/Priyanshi-3>
             <img src=https://avatars.githubusercontent.com/u/47033587?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=binge/>
@@ -88,8 +97,6 @@
             <sub style="font-size:14px"><b>binge</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/verma-shivani>
             <img src=https://avatars.githubusercontent.com/u/60282597?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=verma-shivani/>
@@ -125,6 +132,8 @@
             <sub style="font-size:14px"><b>BraveeSnow</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/SanjayMarreddi>
             <img src=https://avatars.githubusercontent.com/u/57671048?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Sanjay Marreddi/>
@@ -132,8 +141,6 @@
             <sub style="font-size:14px"><b>Sanjay Marreddi</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/Bhavay192>
             <img src=https://avatars.githubusercontent.com/u/56443877?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Bhavay192/>
@@ -169,6 +176,8 @@
             <sub style="font-size:14px"><b>Srithanya</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/anurag1299>
             <img src=https://avatars.githubusercontent.com/u/52789951?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Anurag More/>
@@ -176,8 +185,6 @@
             <sub style="font-size:14px"><b>Anurag More</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/falguni-k>
             <img src=https://avatars.githubusercontent.com/u/49592710?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=falguni-k/>
@@ -213,20 +220,13 @@
             <sub style="font-size:14px"><b>Avinash Pai</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/Harshalszz>
             <img src=https://avatars.githubusercontent.com/u/61976596?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Harshal S Zodape />
             <br />
             <sub style="font-size:14px"><b>Harshal S Zodape </b></sub>
-        </a>
-    </td>
-</tr>
-<tr>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/OussamaSALAHOUELHADJ>
-            <img src=https://avatars.githubusercontent.com/u/55297866?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Oussama SALAHOUELHADJ/>
-            <br />
-            <sub style="font-size:14px"><b>Oussama SALAHOUELHADJ</b></sub>
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
