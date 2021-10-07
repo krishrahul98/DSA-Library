@@ -33,7 +33,6 @@ int findParent(unordered_map<int, int>& par, int r) {
 
 //main function to find the longest consecutive numbers in an array
 int longestConsecutive(vector<int>& nums) {
-
     //map "par" used to store the parent index of a given element
     unordered_map<int, int> par;
     unordered_map<int, int> groupSize;
@@ -41,17 +40,14 @@ int longestConsecutive(vector<int>& nums) {
     int ans = 0;
 
     for (int num: nums) {
-
         //intitally put the number in map simply
         if (par.find(num) == par.end()) {
             par[num] = num;
             groupSize[num] = 1;
         }
         int numParent = findParent(par, num);
-
         //now check of there ia a number which is +1/-1 of the number
         for (int adj = num - 1; adj <= num + 1; adj += 2) {
-
             //if we find such number
             if (par.find(adj) != par.end()) {
                 //find the parent of that particular number
@@ -66,20 +62,16 @@ int longestConsecutive(vector<int>& nums) {
         }
             ans = max(ans, groupSize[numParent]);
         }
-
         return ans;
     }
 
 int main(){
-
     //take user input
     int n;
     vector<int> nums(n,0);
     for(int i=0;i<n;i++){
         cin>>nums[i];
     }
-
     int ans=largestConsecutive(nums);
     return 0;
-
 }
