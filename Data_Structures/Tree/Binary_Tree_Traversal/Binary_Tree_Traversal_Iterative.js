@@ -7,7 +7,38 @@ class Node {
   }
 }
 
-const isNotEmpty = stack => stack.length > 0;
+/**
+ * Visit the Node itself, then Left and Right.
+ */
+const preOrderVisit = (node, buffer) => {
+  if (node !== undefined) {
+    buffer.push(node.value);
+    preOrderVisit(node.left, buffer);
+    preOrderVisit(node.right, buffer);
+  }
+}
+
+/**
+ * Visit Left and Right, then the Node itself.
+ */
+const postOrderVisit = (node, buffer) => {
+  if (node !== undefined) {
+    postOrderVisit(node.left, buffer);
+    postOrderVisit(node.right, buffer);
+    buffer.push(node.value);
+  }
+}
+
+/**
+ * Visit Left, then the Node itself, and ends with Right.
+ */
+const inOrderVisit = (node, buffer) => {
+  if (node !== undefined) {
+    inOrderVisit(node.left, buffer);
+    buffer.push(node.value);
+    inOrderVisit(node.right, buffer);
+  }
+}
 
 class BinaryTree {
   constructor(root) {
@@ -40,7 +71,7 @@ class BinaryTree {
     const result = [];
     const stack = [];
     let node = this.root;
-    let prev = null;
+    let prev = undefined;
     do {
       while (node !== undefined) {
         stack.unshift(node);
@@ -53,7 +84,7 @@ class BinaryTree {
           result.push(node.value);
           stack.shift();
           prev = node;
-          node = null;
+          node = undefined;
         } else {
           node = node.right;
         }
