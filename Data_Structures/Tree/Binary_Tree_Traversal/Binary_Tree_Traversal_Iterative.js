@@ -1,3 +1,4 @@
+
 class Node {
   constructor({value, left, right}) {
     this.value = value;
@@ -45,21 +46,36 @@ class BinaryTree {
   }
 
   visit(f) {
-    const result = [];
-    f(this.root, result);
-    return result;
   }
 
   preOrder() {
-    return this.visit(preOrderVisit);
+    const result = [];
+    const stack = [this.root];
+    while (stack.length > 0) {
+      const node = stack.shift();
+      if (node !== undefined) {
+        result.push(node.value);
+        stack.push(node.left, node.right);
+      }
+    }
+    return result;
   }
 
   postOrder() {
-    return this.visit(postOrderVisit);
+    const result = [];
+    const stack = [this.root];
+    while (stack.length > 0) {
+      const node = stack.shift();
+      if (node !== undefined) {
+        result.unshift(node.value);
+        stack.push(node.right, node.left);
+      }
+    }
+    return result;
   }
 
   inOrder() {
-    return this.visit(inOrderVisit);
+    return null;
   }
 }
 
