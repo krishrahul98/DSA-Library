@@ -64,20 +64,22 @@ class BinaryTree {
 }
 
 const buildTree = () => {
+  const node7 = new Node({value: 7});
+  const node6 = new Node({value: 6});
   const node5 = new Node({value: 5});
-  const node4 = new Node({value: 4});
+  const node4 = new Node({value: 4, right: node7});
   const node2 = new Node({value: 2, left: node4, right: node5});
-  const node3 = new Node({value: 3});
+  const node3 = new Node({value: 3, right: node6});
   const node1 = new Node({value: 1, left: node2, right: node3});
   return node1;
 };
 
 const main = () => {
   const tree = new BinaryTree(buildTree());
-  console.log(tree);
-  console.log(tree.preOrder());
-  console.log(tree.postOrder());
-  console.log(tree.inOrder());
+  console.log("tree =",tree);
+  console.log("pre-order", tree.preOrder());
+  console.log("post-order", tree.postOrder());
+  console.log("in-order", tree.inOrder());
 };
 
 main();
