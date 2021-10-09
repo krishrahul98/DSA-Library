@@ -24,5 +24,5 @@ def heapSort(arr):
 
 arr = [120, 101, 13, 65, 2, 77]
 heapSort(arr)
-for i in range(len(arr)):
-    print("%d" % arr[i]),
+for i in arr:
+    print(i)
