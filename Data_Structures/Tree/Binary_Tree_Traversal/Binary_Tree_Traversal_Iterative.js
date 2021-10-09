@@ -7,38 +7,7 @@ class Node {
   }
 }
 
-/**
- * Visit the Node itself, then Left and Right.
- */
-const preOrderVisit = (node, buffer) => {
-  if (node !== undefined) {
-    buffer.push(node.value);
-    preOrderVisit(node.left, buffer);
-    preOrderVisit(node.right, buffer);
-  }
-}
-
-/**
- * Visit Left and Right, then the Node itself.
- */
-const postOrderVisit = (node, buffer) => {
-  if (node !== undefined) {
-    postOrderVisit(node.left, buffer);
-    postOrderVisit(node.right, buffer);
-    buffer.push(node.value);
-  }
-}
-
-/**
- * Visit Left, then the Node itself, and ends with Right.
- */
-const inOrderVisit = (node, buffer) => {
-  if (node !== undefined) {
-    inOrderVisit(node.left, buffer);
-    buffer.push(node.value);
-    inOrderVisit(node.right, buffer);
-  }
-}
+const isNotEmpty = stack => stack.length > 0;
 
 class BinaryTree {
   constructor(root) {
@@ -50,27 +19,46 @@ class BinaryTree {
 
   preOrder() {
     const result = [];
-    const stack = [this.root];
-    while (stack.length > 0) {
-      const node = stack.shift();
-      if (node !== undefined) {
+    const stack = [];
+    let node = this.root;
+    do {
+      while (node !== undefined) {
         result.push(node.value);
-        stack.push(node.left, node.right);
+        stack.push(node);
+        node = node.left;
       }
-    }
+
+      if (stack.length > 0) {
+        node = stack.pop();
+        node = node.right;
+      }
+    } while (stack.length > 0 || node !== undefined);
     return result;
   }
 
   postOrder() {
     const result = [];
-    const stack = [this.root];
-    while (stack.length > 0) {
-      const node = stack.shift();
-      if (node !== undefined) {
-        result.unshift(node.value);
-        stack.push(node.right, node.left);
+    const stack = [];
+    let node = this.root;
+    let prev = null;
+    do {
+      while (node !== undefined) {
+        stack.unshift(node);
+        node = node.left;
       }
-    }
+
+      while (node === undefined && stack.length > 0) {
+        node = stack[0];
+        if (node.right === undefined || node.right == prev) {
+          result.push(node.value);
+          stack.shift();
+          prev = node;
+          node = null;
+        } else {
+          node = node.right;
+        }
+      }
+    } while (stack.length > 0);
     return result;
   }
 
