@@ -11,6 +11,9 @@ class Node {
   }
 }
 
+/**
+ * Visit the Node itself, then Left and Right.
+ */
 const preOrderVisit = (node, buffer) => {
   if (node !== undefined) {
     buffer.push(node.value);
@@ -19,8 +22,26 @@ const preOrderVisit = (node, buffer) => {
   }
 }
 
+/**
+ * Visit Left and Right, then the Node itself.
+ */
 const postOrderVisit = (node, buffer) => {
+  if (node !== undefined) {
+    postOrderVisit(node.left, buffer);
+    postOrderVisit(node.right, buffer);
+    buffer.push(node.value);
+  }
+}
 
+/**
+ * Visit Left, then the Node itself, and ends with Right.
+ */
+const inOrderVisit = (node, buffer) => {
+  if (node !== undefined) {
+    inOrderVisit(node.left, buffer);
+    buffer.push(node.value);
+    inOrderVisit(node.right, buffer);
+  }
 }
 
 class BinaryTree {
@@ -60,6 +81,8 @@ const main = () => {
   const tree = new BinaryTree(buildTree());
   console.log(tree);
   console.log(tree.preOrder());
+  console.log(tree.postOrder());
+  console.log(tree.inOrder());
 };
 
 main();
