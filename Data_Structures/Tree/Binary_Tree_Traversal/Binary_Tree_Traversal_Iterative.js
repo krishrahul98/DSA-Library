@@ -75,15 +75,31 @@ class BinaryTree {
   }
 
   inOrder() {
-    return null;
+    const result = [];
+    const stack = [];
+    let node = this.root;
+    do {
+      while (node !== undefined) {
+        stack.push(node);
+        node = node.left;
+      }
+
+      if (stack.length > 0) {
+        node = stack.pop();
+        result.push(node.value);
+        node = node.right;
+      }
+    } while (stack.length > 0 || node !== undefined);
+    return result;
   }
 }
 
 const buildTree = () => {
+  const node6 = new Node({value: 6});
   const node5 = new Node({value: 5});
   const node4 = new Node({value: 4});
   const node2 = new Node({value: 2, left: node4, right: node5});
-  const node3 = new Node({value: 3});
+  const node3 = new Node({value: 3/*, right: node6*/});
   const node1 = new Node({value: 1, left: node2, right: node3});
   return node1;
 };
