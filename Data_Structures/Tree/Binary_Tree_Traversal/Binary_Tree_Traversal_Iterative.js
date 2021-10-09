@@ -7,38 +7,7 @@ class Node {
   }
 }
 
-/**
- * Visit the Node itself, then Left and Right.
- */
-const preOrderVisit = (node, buffer) => {
-  if (node !== undefined) {
-    buffer.push(node.value);
-    preOrderVisit(node.left, buffer);
-    preOrderVisit(node.right, buffer);
-  }
-}
-
-/**
- * Visit Left and Right, then the Node itself.
- */
-const postOrderVisit = (node, buffer) => {
-  if (node !== undefined) {
-    postOrderVisit(node.left, buffer);
-    postOrderVisit(node.right, buffer);
-    buffer.push(node.value);
-  }
-}
-
-/**
- * Visit Left, then the Node itself, and ends with Right.
- */
-const inOrderVisit = (node, buffer) => {
-  if (node !== undefined) {
-    inOrderVisit(node.left, buffer);
-    buffer.push(node.value);
-    inOrderVisit(node.right, buffer);
-  }
-}
+const isNotEmpty = stack => stack.length > 0;
 
 class BinaryTree {
   constructor(root) {
@@ -59,11 +28,11 @@ class BinaryTree {
         node = node.left;
       }
 
-      if (stack.length > 0) {
+      if (isNotEmpty(stack)) {
         node = stack.pop();
         node = node.right;
       }
-    } while (stack.length > 0 || node !== undefined);
+    } while (isNotEmpty(stack) || node !== undefined);
     return result;
   }
 
@@ -78,7 +47,7 @@ class BinaryTree {
         node = node.left;
       }
 
-      while (node === undefined && stack.length > 0) {
+      while (node === undefined && isNotEmpty(stack)) {
         node = stack[0];
         if (node.right === undefined || node.right == prev) {
           result.push(node.value);
@@ -89,7 +58,7 @@ class BinaryTree {
           node = node.right;
         }
       }
-    } while (stack.length > 0);
+    } while (isNotEmpty(stack));
     return result;
   }
 
@@ -103,12 +72,12 @@ class BinaryTree {
         node = node.left;
       }
 
-      if (stack.length > 0) {
+      if (isNotEmpty(stack)) {
         node = stack.pop();
         result.push(node.value);
         node = node.right;
       }
-    } while (stack.length > 0 || node !== undefined);
+    } while (isNotEmpty(stack) || node !== undefined);
     return result;
   }
 }
