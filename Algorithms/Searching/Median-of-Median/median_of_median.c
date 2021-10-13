@@ -72,6 +72,8 @@ int sortK(int* array, int low, int high) {
 // Pre-declaration because of the mutual recursion between medianOfMedian and pivot
 int medianOfMedian(int*, int, int, int);
 
+// RANGE must be odd, to ease the task of picking a median element in a slice
+// of size RANGE.
 #define RANGE 5
 
 int pivot(int* array, int low, int high) {
