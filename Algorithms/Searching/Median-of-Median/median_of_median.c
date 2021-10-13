@@ -2,7 +2,9 @@
 #include <stdio.h>
 #include <string.h>
 
-#define MIN(X, Y) (((X) < (Y)) ? (X) : (Y))
+int min(int x, int y) {
+  return x < y ? x : y;
+}
 
 void printArray(int* array, int size) {
   printf("[");
@@ -55,13 +57,14 @@ int partition(int* array, int low, int high, int pivotIndex, int n) {
   }
 }
 
-int partitionK(int* array, int low, int high) {
-  int i = low + 1;
-  while (i <= high) {
+/**
+ * Sorts the given array slice and returns the index of the median element.
+ */
+int sortK(int* array, int low, int high) {
+  for (int i = low + 1; i <= high; i += 1) {
     for (int j = i; j > low && array[j - 1] > array[j]; j -= 1) {
       swap(&array[j - 1], &array[j]);
     }
-    i += 1;
   }
   return (low + high) / 2;
 }
@@ -69,17 +72,22 @@ int partitionK(int* array, int low, int high) {
 // Pre-declaration because of the mutual recursion between medianOfMedian and pivot
 int medianOfMedian(int*, int, int, int);
 
+#define RANGE 5
+
 int pivot(int* array, int low, int high) {
-  if (high - low < 5) {
-    return partitionK(array, low, high);
+  if (high - low < RANGE) {
+    return sortK(array, low, high);
   } else {
-    for (int i = low; i <= high; i += 5) {
-      int innerHigh = MIN(i + 4, high);
-      int median5 = partitionK(array, i, innerHigh);
-      swap(&array[median5], &array[low + (i - low) / 5]);
+    // Sort multiple slices of RANGE elements to find the median in them
+    // Then regroup all median elements at the start of @array
+    for (int i = low; i <= high; i += RANGE) {
+      int innerHigh = min(i + RANGE - 1, high);
+      int innerMedian = sortK(array, i, innerHigh);
+      swap(&array[innerMedian], &array[low + (i - low) / RANGE]);
     }
-    int nextHigh = low + (high - low) / 5;
-    int mid = (high - low) / 10 + low + 1;
+    // Recurse with the start of the array containing the found median values
+    int nextHigh = low + (high - low) / RANGE;
+    int mid = (high - low) / (2 * RANGE) + low + 1;
     return medianOfMedian(array, low, nextHigh, mid);
   }
 }
@@ -107,9 +115,7 @@ void example(int* array, int size, int n) {
   int* copy = (int*) malloc(byteSize);
   memcpy(copy, array, byteSize);
 
-  // Decrement n because the algorithm is 0-based but we speak of n-th in 
-  // a 1-based language
-  int position = medianOfMedian(copy, 0, size, n + 1);
+  int position = medianOfMedian(copy, 0, size - 1, n - 1);
 
   printf("%dth smallest element [%d] = %d\n", n, position, copy[position]);
 
@@ -122,7 +128,7 @@ int main() {
     6, 35, 24, 0, 9,
     1334, 8};
   int size = sizeof(array) / sizeof(array[0]);
-  printf("Sorting array of size %d with elements:\n", size);
+  printf("Input array of size %d with elements:\n", size);
   printArray(array, size);
 
   example(array, size, 5);
