@@ -35,6 +35,11 @@ int partition(int* array, int low, int high, int pivotIndex, int n) {
       storeIndex += 1;
     }
   }
+  if (n < storeIndex) {
+    // n is in the group of smaller elements
+    // Early return, as we don't care about the upper part
+    return storeIndex;
+  } 
   // Move all elements equal to the pivot
   int storeIndexEq = storeIndex;
   for (int i = storeIndex; i < high; i += 1) {
@@ -45,10 +50,7 @@ int partition(int* array, int low, int high, int pivotIndex, int n) {
   }
   // Move pivot to its final place
   swap(&array[high], &array[storeIndexEq]);
-  if (n < storeIndex) {
-    // n is in the group of smaller elements
-    return storeIndex;
-  } else if (n <= storeIndexEq) {
+  if (n <= storeIndexEq) {
     // n is in the group equal to the pivot
     return n;
   } else {
