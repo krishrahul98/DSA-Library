@@ -76,10 +76,6 @@ $ git push origin main
 
 ```
 
-## Collaborator
-
-**[Hemanth Kotagiri](https://github.com/hemanth-kotagiri)**
-
 ## Contributors 🎉
 
 Meet our wonderful [contributors](/CONTRIBUTORS.md).
