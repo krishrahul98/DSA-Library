@@ -6,7 +6,7 @@ jobs:
   run:
     runs-on: ubuntu-latest
     steps:
-      - uses: bubkoo/welcome-action@v1.1.0
+      - uses: bubkoo/welcome-action@v1.2.0
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           FIRST_ISSUE_REACTIONS: '+1, hooray, rocket, heart'
